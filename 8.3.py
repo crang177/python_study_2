@@ -5,19 +5,33 @@ import random
 import time
 import os
 
+os.system('cls')
 numberofQuestions=10
 correctAnswers=0
 for i in range(numberofQuestions):
     num1=random.randint(10,20)
     num2=random.randint(10,20)
-    prompt='第 %s 题的数学计算式为%s X %s = '%(i+1,num1,num2)
+    operator=random.choice(['+','-','X','/'])
+    prompt='第 %s 题的数学计算式为%s %s %s = '%(i+1,num1,operator,num2)
+    if operator=='+':
+        result=num1+num2
+    elif operator=='-':
+        result=num1-num2
+    elif operator=='X':
+        result=num1*num2
+    elif operator=='/':
+        result=round(num1/num2,2)
+
+
 
     try:
-        pyip.inputStr(prompt,allowRegexes=[r'^%s$'%(num1*num2)],blockRegexes=[r'.*','Incorrect!'],limit=3,timeout=8)
+        pyip.inputStr(prompt,allowRegexes=[r'^%s$'%(result)],blockRegexes=[r'.*','Incorrect!'],limit=3,timeout=8)
     except pyip.TimeoutException:
         print("时间到了")
+        print(f"正确答案为 ( {result} )")
     except pyip.RetryLimitException:
         print('达到最大错误次数')
+        print(f"正确答案为 ( {result} )")
     else:
         print('答案正确')
         correctAnswers+=1
