@@ -1,9 +1,10 @@
 #将一个文件夹备份到一个ZIP文件
 
-import zipfile,os,re,os.path
+import zipfile,os,re,os.path,time
 from ansilib import ansi
 from pathlib import Path
 import pyinputplus as pyip
+
 
 
 #检查zip文件名的名字是否存在
@@ -29,6 +30,7 @@ def check_name_zip(Name):
         if i==name:
             print("该压缩文件已存在")
             print(f'路径：{path1/Name}\n')
+            time.sleep(5)
             quit()
         
 
@@ -54,5 +56,6 @@ path=pyip.inputStr(prompt)
 name=f'{os.path.basename(path)}.zip'
 check_name_zip(name)
 change_zip(path,name)
+time.sleep(5)
 
 
