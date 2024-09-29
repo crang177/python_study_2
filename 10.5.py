@@ -39,9 +39,22 @@ def uncompress(path):
     path2=Path(path)
     basename=os.path.basename(path)
     uncompress_file=zipfile.ZipFile(path2)
+    check_uncompress_folder_name(basename[:len(basename)-4])
     uncompress_file.extractall(path1/basename[:len(basename)-4])
     print(f"解压成功，解压路径{path1/basename[:len(basename)-4]}\n")
     time.sleep(5)
+
+
+#检查解压函数得到的文件夹是否存在
+def check_uncompress_folder_name(name):
+    folder_name_list=os.listdir("D:\\py exercise file")
+    for i in folder_name_list:
+        if i==name:
+            print("该压缩文件已存在")
+            print(f'路径：{"D:\\py exercise file"+name}\n')
+            time.sleep(5)
+            quit()
+
 
 
 def main():
