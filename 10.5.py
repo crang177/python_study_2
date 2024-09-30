@@ -21,15 +21,20 @@ def check_name_zip(Name):
 
 
 #压缩文件函数
-def change_zip(path,Name):
+def change_zip(path,name):
     os.system('cls')
-    path1=Path('D:\\py exercise file')
-    AlsPythonBookZip=zipfile.ZipFile(path1/Name,'a')
+    shotname=name[:len(name)-4]
+    AlsPythonBookZip=zipfile.ZipFile(Path('D:\\py exercise file')/name,'a')
     for folder,subfolders,filenames in os.walk(path):
+        relative_root=os.path.relpath(folder,path)
         for filename in filenames:
-            AlsPythonBookZip.write(folder+'\\'+filename,compress_type=zipfile.ZIP_DEFLATED)
-    print(f"压缩文件{Name}成功")
-    print(f'路径：{path1/Name}\n')
+            file_path=os.path.join(folder,filename)
+
+            archive_path=os.path.join(shotname,relative_root,filename)
+            AlsPythonBookZip.write(file_path,compress_type=zipfile.ZIP_DEFLATED,arcname=archive_path)
+    AlsPythonBookZip.close()
+    print(f"压缩文件{name}成功")
+    print(f'路径：{Path('D:\\py exercise file')/name}\n') 
 
 
 
