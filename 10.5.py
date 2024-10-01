@@ -5,6 +5,10 @@ from ansilib import ansi
 from pathlib import Path
 import pyinputplus as pyip
 
+#启用日志
+import logging
+logging.basicConfig(level=logging.DEBUG,format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 #检查压缩zip文件名的名字是否存在
 def check_name_zip(Name):
@@ -24,11 +28,12 @@ def check_name_zip(Name):
 def change_zip(path,name):
     os.system('cls')
     shotname=name[:len(name)-4]
-    AlsPythonBookZip=zipfile.ZipFile(Path('D:\\py exercise file')/name,'a')
+    AlsPythonBookZip=zipfile.ZipFile('D:\\py exercise file'+'\\'+name,'a')
     for folder,subfolders,filenames in os.walk(path):
         relative_root=os.path.relpath(folder,path)
         for filename in filenames:
             file_path=os.path.join(folder,filename)
+            logging.debug(f"文件的名字:{filename}")
 
             archive_path=os.path.join(shotname,relative_root,filename)
             AlsPythonBookZip.write(file_path,compress_type=zipfile.ZIP_DEFLATED,arcname=archive_path)
@@ -81,7 +86,7 @@ def main():
 
 
 
-
+logging.disable(logging.CRITICAL)#禁用日志
 main()
 
 
