@@ -1,0 +1,3116 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8"><style>
+#pg-header div, #pg-footer div {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+}
+#pg-footer div.agate {
+    font-size: 90%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-footer li {
+    all: initial;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    text-indent: -0.6em;
+}
+#pg-footer div.secthead {
+    font-size: 110%;
+    font-weight: bold;
+}
+#pg-footer #project-gutenberg-license {
+    font-size: 110%;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+#pg-header-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight:bold;
+}
+#pg-footer-heading {
+    all: inherit;
+    text-align: center;
+    font-size: 120%;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header p {
+    text-indent: -4em;
+    margin-left: 4em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    font-size: medium
+}
+#pg-header #pg-header-authlist {
+    all: initial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pg-header #pg-machine-header strong {
+    font-weight: normal;
+}
+#pg-header #pg-start-separator, #pg-footer #pg-end-separator {
+    margin-bottom: 3em;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 2em;
+    text-align: center
+}
+
+    .xhtml_center {text-align: center; display: block;}
+    .xhtml_center table {
+        display: table;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        }</style><title>
+      Chambers’s Journal, October 9, 1886 | Project Gutenberg
+    </title>
+    <link href="images/cover.jpg" rel="icon" type="image/x-cover" id="id-8503331124726969509">
+    <style>body {
+    margin-left: 10%;
+    margin-right: 10%
+    }
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    clear: both
+    }
+p {
+    margin-top: 0.51em;
+    text-align: justify;
+    margin-bottom: 0.49em
+    }
+hr {
+    width: 33%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 33.5%;
+    margin-right: 33.5%;
+    clear: both
+    }
+hr.tb {
+    width: 45%;
+    margin-left: 27.5%;
+    margin-right: 27.5%
+    }
+hr.chap {
+    width: 65%;
+    margin-left: 17.5%;
+    margin-right: 17.5%
+    }
+@media print {
+    hr.chap {
+        display: none;
+        visibility: hidden
+        }
+    }
+hr.full {
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%
+    }
+div.chapter {
+    page-break-before: always
+    }
+h2.nobreak {
+    page-break-before: avoid
+    }
+.pagenum {
+    position: absolute;
+    left: 92%;
+    font-size: small;
+    text-align: right;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-indent: 0
+    }
+.blockquot {
+    margin-left: 5%;
+    margin-right: 10%
+    }
+.center {
+    text-align: center
+    }
+.right {
+    text-align: right
+    }
+.smcap {
+    font-variant: small-caps
+    }
+img {
+    max-width: 100%;
+    height: auto
+    }
+img.w100 {
+    width: 100%
+    }
+.figcenter {
+    margin: auto;
+    text-align: center;
+    page-break-inside: avoid;
+    max-width: 100%
+    }
+.poetry-container {
+    display: flex;
+    justify-content: center
+    }
+.poetry-container {
+    text-align: center
+    }
+.poetry {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%
+    }
+.poetry .stanza {
+    margin: 1em auto
+    }
+.poetry .verse {
+    text-indent: -3em;
+    padding-left: 3em
+    }
+.poetry .attrib {
+    text-align: right
+    }
+.header {
+    text-align: center;
+    margin-top: 0
+    }
+.header p {
+    text-align: center;
+    text-indent: 0
+    }
+.header .floatl {
+    float: left
+    }
+.header .floatr {
+    float: right
+    }
+.header .floatc {
+    padding-top: 0.5em
+    }
+.x-ebookmaker .header {
+    text-align: center;
+    margin-top: 0
+    }
+.x-ebookmaker .header p {
+    text-align: center;
+    text-indent: 0
+    }
+.x-ebookmaker .header .floatl {
+    float: left
+    }
+.x-ebookmaker .header .floatr {
+    float: right
+    }
+.x-ebookmaker .header .floatc {
+    padding-top: 0.5em
+    }
+.poetry .indent0 {
+    text-indent: -3em
+    }
+.poetry .indent2 {
+    text-indent: -2em
+    }</style>
+<link rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dc.title" content="Chambers's journal of popular literature, science, and art, fifth series, no. 145, vol. III, October 9, 1886">
+<meta name="dc.language" content="en">
+<meta name="dcterms.source" content="https://www.gutenberg.org/files/74501/74501-h/74501-h.htm">
+<meta name="dcterms.modified" content="2024-10-01T17:00:42.547996+00:00">
+<meta name="dc.rights" content="Public domain in the USA.">
+<link rel="dcterms.isFormatOf" href="http://www.gutenberg.org/ebooks/74501">
+<meta name="dc.creator" content="Various">
+<meta name="dcterms.created" content="2024-10-01">
+<meta name="generator" content="Ebookmaker 0.12.47 by Project Gutenberg">
+<meta property="og:title" content="Chambers's journal of popular literature, science, and art, fifth series, no. 145, vol. III, October 9, 1886">
+<meta property="og:type" content="Text">
+<meta property="og:url" content="https://www.gutenberg.org/cache/epub/74501/pg74501-images.html">
+<meta property="og:image" content="https://www.gutenberg.org/cache/epub/74501/pg74501.cover.medium.jpg">
+</head>
+<body><section class="pg-boilerplate pgheader" id="pg-header" lang="en"><h2 id="pg-header-heading" title="">The Project Gutenberg eBook of <span lang="en" id="pg-title-no-subtitle">Chambers's journal of popular literature, science, and art, fifth series, no. 145, vol. III, October 9, 1886</span></h2>
+    
+<div>This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at <a class="reference external" href="https://www.gutenberg.org">www.gutenberg.org</a>. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.</div>
+
+<div class="container" id="pg-machine-header"><p><strong>Title</strong>: Chambers's journal of popular literature, science, and art, fifth series, no. 145, vol. III, October 9, 1886</p>
+<div id="pg-header-authlist">
+<p><strong>Author</strong>: Various</p>
+</div>
+<p><strong>Release date</strong>: October 1, 2024 [eBook #74501]</p>
+
+<p><strong>Language</strong>: English</p>
+
+<p><strong>Original publication</strong>: United Kingdom: William and Robert Chambers</p>
+
+<p><strong>Credits</strong>: Susan Skinner, Eric Hutton and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</p>
+
+</div><div id="pg-start-separator">
+<span>*** START OF THE PROJECT GUTENBERG EBOOK CHAMBERS'S JOURNAL OF POPULAR LITERATURE, SCIENCE, AND ART, FIFTH SERIES, NO. 145, VOL. III, OCTOBER 9, 1886 ***</span>
+</div></section><div style="text-align:center"></div>
+<p><span class="pagenum" id="Page_641">{641}</span></p>
+
+<h1>CHAMBERS’S JOURNAL<br>
+OF<br>
+POPULAR<br>
+LITERATURE, SCIENCE, AND ART.</h1>
+
+<div class="chapter">
+<h2 class="nobreak">CONTENTS</h2>
+</div>
+
+<p class="center">
+
+<!-- Autogenerated TOC. Modify or delete as required. -->
+
+<a href="#HOUSES_WITH_SECRET_CHAMBERS" class="pginternal">HOUSES WITH SECRET CHAMBERS.</a><br>
+<a href="#BY_ORDER_OF_THE_LEAGUE" class="pginternal">BY ORDER OF THE LEAGUE.</a><br>
+<a href="#MINERAL_SUBSIDENCE" class="pginternal">MINERAL SUBSIDENCE.</a><br>
+<a href="#GEORGE_HANNAYS_LOVE_AFFAIR" class="pginternal">GEORGE HANNAY’S LOVE AFFAIR.</a><br>
+<a href="#BLEEDING_HEART_YARD" class="pginternal">BLEEDING HEART YARD.</a><br>
+<a href="#FLEET_STREET_MARRIAGES" class="pginternal">FLEET STREET MARRIAGES.</a><br>
+<a href="#TO_A_LADY" class="pginternal">TO A LADY.</a><br>
+
+<!-- End Autogenerated TOC. -->
+
+</p>
+
+<hr class="full">
+
+<div class="chapter">
+<div class="figcenter" style="max-width: 37.5em;" id="header">
+  <img alt="Chambers’s Journal of Popular Literature, Science, and Art. Fifth Series. Established by William and Robert Chambers, 1832. Conducted by R. Chambers (Secundus)." class="w100" src="images/header.jpg" id="img_images_header.jpg">
+</div>
+
+<hr class="full">
+<div class="center">
+<div class="header">
+<p class="floatl"><span class="smcap">No. 145.—Vol. III.</span></p>
+<p class="floatr"><span class="smcap">Price</span> 1½<em>d.</em></p>
+<p class="floatc">SATURDAY, OCTOBER 9, 1886.</p>
+</div></div></div>
+
+<hr class="full">
+
+
+
+<div class="chapter">
+<h2 class="nobreak" id="HOUSES_WITH_SECRET_CHAMBERS">HOUSES WITH SECRET CHAMBERS.</h2>
+</div>
+
+
+<p><span class="smcap">Though</span> we have on former occasions referred to
+houses with lurking-places, or secret chambers,
+the subject seems to be of such interest as to
+warrant our giving some further examples.</p>
+
+<p>Plowden Hall, county of Salop, with ‘its gable
+ends, high chimneys, its floors, staircases, and
+doors of solid oak, and walls covered with oak
+panelling,’ is described as being full of nooks and
+corners. There is a hiding-hole in the closet of
+one of the bedrooms, where the boards of the
+flooring are so arranged as to be easily moved;
+and underneath is a trap-door, by which a small
+ladder leads down into a dark hole where there is
+just room enough for a man to change his position
+with ease from a standing to a sitting posture.
+There is a shelf, on which the concealed person
+could eat his food. Tradition states that a priest
+was actually concealed there for a fortnight whilst
+Cromwell’s soldiers were posted outside the gates;
+and that these were obliged to leave without
+having discovered him. Besides this hiding-place,
+there is an escape about the width and form of a
+chimney, reaching from one of the bedrooms down
+to the ground-floor of the house, to which a man
+might be lowered by means of a rope. There is
+also an outlet over the chapel through two trap-doors
+on to the roof, where a person might escape
+between the eaves of the house; and a portion of
+the flooring of the chapel is so formed as to lift
+up and cover a hiding-place below for concealing
+the sacred vessels.</p>
+
+<p>Raglan Castle, Hallam, Derbyshire; Maple-Durham
+House, Oxon; Oxburgh Hall, Norfolk;
+Coughton Hall, Warwickshire; Harrowden, the
+seat of the Lords Vaux; and the old Manor-house,
+Long Clawson, each has its lurking-holes
+and secret chamber. That in the last named
+quaint, old, picturesque-looking house is reached
+by the chimney of one of the sitting-rooms.</p>
+
+<p>‘White Welles House, which lies on the borders
+of Enfield Chase, is said to have been’ full of
+holes, dark mysterious vaults, and subterranean
+passages.</p>
+
+<p>Recusants and priests found refuge in Little
+Malvern Court in the days of their persecution,
+the position of one or two hiding-places in the
+roof being still pointed out.</p>
+
+<p>A secret chamber in Lowstock Hall, in the
+parish of Bolton, Lancashire, which was pulled
+down in 1816, was associated with blood-stains
+on the hearthstone of one of the rooms, and
+the supposed murder of a priest in the troublous
+times.</p>
+
+<p>In connection with Yorkshire, the old Red
+House is made mention of as having had a secret
+chamber and gallery underneath the roof. These
+were brought to light some years ago when workmen
+were employed in making repairs and alterations
+on the mansion. The noted royalist, Sir
+Henry Slingsby, lay for a time concealed in the
+hiding-place thus skilfully contrived; but venturing
+forth one moonlight night to enjoy the
+freedom of a walk in his garden, he was seen by
+a servant-man, who betrayed him to his enemies;
+and soon after the gallant old colonel was seized,
+conveyed to London, and beheaded on Tower
+Hill.</p>
+
+<p>Kingerby Old Hall, situated in the same county,
+was also possessed of one or more secret chambers.</p>
+
+<p>Ashbourne Place, in Sussex, which was said to
+have been built by a brother of Bishop Juxon, was
+often made use of as a place of refuge by that
+persecuted prelate after the death of Charles I.
+At the time when his royal master was beheaded,
+Juxon was Bishop of London and Clerk of the
+Closet; and being implicitly trusted by his royal
+master, to whom he was devotedly attached,
+he received his last confidences on the scaffold,
+and his George, with the oft-referred-to word,
+‘Remember!’ The father of the present proprietor
+of Ashbourne, in opening a communication
+between the back and front chambers, discovered
+a room, the existence of which was previously
+unknown, and to which access could only have
+been gained through the chimney. In all probability,
+this curious retreat was Bishop Juxon’s
+hiding-place.</p>
+
+<p><span class="pagenum" id="Page_642">{642}</span></p>
+
+<p>There is a gallery situated in the attic story of
+the mansion at Stanford Court, in Worcestershire,
+in which Arthur Salwin—an ancestor of the
+present proprietor of the estate, who lived in the
+reigns of Elizabeth and James I.—and his four sons
+and seven daughters, together with others of their
+kindred, are portrayed on the oak-panelled walls
+of the room in the costume of the day; the ladies
+in embroidered dresses, with jewelled ornaments.
+Underneath each figure is a motto in Latin.
+Behind the panels are secret passages, which,
+previous to the alterations of modern times,
+extended over a great part of the mansion.</p>
+
+<p>Sanston Hall, the seat of the ancient family
+of Huddlestone, in Cambridgeshire, was destroyed
+on account of the owner’s adherence to the ancient
+faith, and rebuilt in the time of Queen Mary,
+when the precaution was taken to erect a
+chapel in the roof. It is approached by a winding
+staircase, which also gives access to a secret
+chamber. In the hiding-place near the chapel in
+the roof at the top of the old winding staircase,
+there were found some oyster-shells; and a fowl’s
+bone was picked up in the one belonging to
+Lydiate Hall—relics of some poor prisoner’s solitary
+meal.</p>
+
+<p>Upton Court, near Reading, the former residence
+of the Perkyns family, has also its hidden
+retreat, which is difficult of access, being approached
+by a trap-door in the midst of a
+chimney-stack near the lesser Hall.</p>
+
+<p>About the beginning of the present, or the
+end of last century, a secret chamber was accidentally
+discovered in the ancient mansion of
+Bourton-on-the-Water, a ‘large rambling house of
+many gables,’ situated in Gloucestershire. The
+door appeared on tearing off the paper which
+was about to be removed. It was on the second
+(or upper) floor landing-place, and opened into a
+small chamber about eight feet square, containing
+a chair and a table. On the back of the former
+lay a black robe; and the whole had the appearance
+as if some one had recently risen from his
+seat and left the room. On the same floor there
+were several other apartments, of which three
+only were in use, the other (called the Dark
+Room) having been locked up for many years.
+Of the three in use, one was styled the Chapel,
+and another the Priest’s Room. The former
+had a vaulted roof or ceiling. All three were
+supposed by the villagers to be haunted, and
+they had been known by the above appellations
+in the family long anterior to the discovery of
+the door. This interesting old mansion was sold
+in 1608 to Sir Thomas Edwards, treasurer of
+the royal household, and subsequently privy-councillor
+to Charles I., and it was probably
+during his occupancy that Charles is said to
+have passed the first night there on his way from
+Oxford. Since 1834, this house—except a small
+part of the south front—was pulled down, the
+fine old trees in which it was embosomed felled,
+the shrubberies made away with, the pleasure-grounds
+converted into pasture, and the remains
+of the house into a dispensary!</p>
+
+<p>The hiding-place in Heale House, near Amesbury,
+in Wilts, for several days formed a retreat
+for King Charles II. after the battle of Worcester.</p>
+
+<p>In the course of this century, a movable panel
+was discovered in a small panelled room in the
+old manor-house of Chelvey, county of Somerset.
+This aperture, for some unexplained reason, was
+closed up hastily, and the spring by which it
+was opened was said to be lost. In an adjoining
+room, which was much larger, and panelled in
+a similar manner, there was a cupboard, the
+floor of which—afterwards nailed down—had been
+formerly movable. Underneath was a short
+flight of steps, which again ascended, and led to
+a pretty long but very narrow room at the back
+of the fireplace. This concealed chamber was
+furnished with an iron sconce projecting from
+the wall, to hold a candle, and was also provided
+with a small fireplace.</p>
+
+<p>Parham, which belongs to the Curzon family,
+has a secret chamber close to the chapel in the
+roof of the house, and the way down to it is
+through a bench standing out from the wall.</p>
+
+<p>Captain Duthy, in his <i>History of Hampshire</i>,
+says ‘that the old house at Hinton-Ampner, in
+that county, was subjected to the evil report
+of being haunted; that strange and unaccountable
+circumstances did occur there, by which the
+peace and comfort of a most respectable and
+otherwise strong-minded lady, at that time occupier
+of the mansion, were essentially interfered
+with by noises and interruptions that to her
+appeared awful and unearthly, and which finally
+led to her giving up the house. Afterwards,
+on its being taken down, it was discovered that
+in the thickness of the walls were secret passages
+and stairs not generally known to exist, which
+afforded peculiar facilities for any one carrying
+on without detection the mysteries of a haunted
+house.’</p>
+
+<p>The following extract, taken from a state paper
+in the public Record Office, is preserved among
+others relating to the Rebellion of 1745, and
+obviously has reference to the search that was
+being made all over the country for suspected
+persons. Worksop Manor as it then stood is
+said to have been burned down in 1761. Examination
+of Elizabeth Brown, taken upon oath
+before Richard Bagshaw, the 24th November
+1745—‘Who says that nine years ago last spring,
+upon that Easter Monday, she, Catherine Marshall,
+and another young woman, went to Worksop
+Manor to see Elizabeth Walkden, who lived as
+a servant with the Duke of Norfolk there; and
+desiring to look at the house, the said Elizabeth
+Walkden, she believed, showed them most
+of the rooms of the house; and at last coming
+upon the leads of the house, and walking and
+looking about them, the said Elizabeth Walkden
+said she would let them see a greater variety
+than they had yet seen; after which she raised
+up the ledge of a sheet of lead with her knife
+till she got her fingers under it, and then she<span class="pagenum" id="Page_643">{643}</span>
+desired them to assist her, which they did; and
+then under that she took up a trap-door where
+there was a flight of stairs, which they went
+down, into a little room which was all dark;
+that the said Elizabeth Walkden opening the
+window-shutter, there was a fireplace, a bed, and
+a few chairs in the said room; and asking her
+what use that room was for, she said it was to
+hide people in trouble—sometimes. Then the
+said Elizabeth Walkden went to the side of the
+room next to the stair-foot, and opened a door
+in the wainscot about the middle of the height
+of the room, which they looked into, but it being
+dark, they could not see anything in it; but the
+said Elizabeth Walkden said they could not go
+into it, as it was full of arms; upon which the
+said Elizabeth Walkden shut the door, and they
+went up-stairs; and then she shut the trap-door,
+and laid down the sheet of lead as it was before,
+which was so nice she could not discern it from
+another part of the leads, and believes she could
+not find it if she were there again.’</p>
+
+<p>In a very old house entered from the High
+Street of Canterbury, and nearly facing Mersey
+Lane, which leads straight to the cathedral, one
+of the rooms had a window opening into an
+adjoining church. In the thickness of the walls
+there were two or three secret stairs. It was
+said to have been a nunnery formerly; and that
+a subterranean passage, it was ascertained, used
+to unite it with the cathedral.</p>
+
+<p>Woodcote, Hampshire; Coldham House, Suffolk;
+Watcomb and Maple-Durham, Berkshire; Stonyhurst
+in Lancashire; Treago, Herefordshire; Harborough
+Hall, situated midway between Hagley
+and Kidderminster, all had their secret chambers;
+and the ancient seat of the Tichbornes was similarly
+provided, together with a complication of
+secret passages and stairs.</p>
+
+<p>Compton Wynyates, a remote and picturesque
+mansion belonging to the Marquis of Northampton,
+has an upper chapel in the topmost gable,
+with ancient wooden altar, three staircases leading
+to the Priest’s room in the lower story, secret
+passages, and hiding-places behind the wainscoting
+spacious enough to hold one hundred persons
+in case of alarm. The existence of such a
+chapel sufficiently indicates that the rites of the
+old religion were practised in private, although
+the Protestant place of worship remained open
+below.</p>
+
+<p>In Essex, the Wisemans of Braddox or Broadoaks
+were of the number of those who suffered
+during the reigns of Elizabeth and James for their
+noted ‘harbouring of priests.’ In <i>P. R. O. Dom.
+Elizabeth</i>, vol. 244, n. 7, may be seen two forms of
+indictment of Richard Jackson, priest, for saying
+mass at Braddox, and of various members of
+the Wiseman family for being present at mass on
+the 25th August and the 8th of September 1592.
+Again: ‘Mr Worseley and Mr Newall have been
+to Widow Wiseman’s house in Essex, and found
+a mass preparing; but the priest escaped.’ There
+were two hiding-places in Braddox: the most
+important of these adjoined the chapel, and was
+constructed in a thick wall of the chimney, behind
+a finely laid and carved mantel-piece.</p>
+
+<p>In connection with the old mansion of the
+Carylls at West Grinstead, the Abbé Denis tells
+us that it also has two hiding-places. ‘One of
+these is between the mantel-piece and ceiling of
+the dining-room; and the way to get to it is
+to go up the flue of the chimney as high as the
+ceiling of the room on the second floor; and
+then, by an aperture in the side of the chimney
+or flue, to drop down into the hiding-hole.
+Another opening also exists in the chimney of
+the room above. The second place of concealment
+is quite underneath the roof of the house.
+It had likewise two ways of access—the one
+from an attic, the other from a closet or small
+room underneath.’ In Benton, the original seat
+of the Carylls in Sussex, there is one on the
+ground-floor between two kitchen chimneys,
+which is entered by an opening in the room
+at the back. At New Building, a house more
+recently erected by the Carylls, there are also
+two secret rooms; one on the second floor,
+formed in the thickness of the wall between
+two chimneys, but entered by a concealed door
+in one of the two adjoining rooms. The other
+is in the opposite gable, and is entered from the
+room on the ground-floor below, through the
+top of a cupboard which stands in the wall
+close to the chimney.</p>
+
+<p>The walls of the ‘ancient moated and turreted
+mansion’ of Lyford, Berks, were ‘pierced with
+concealed galleries and hiding-places;’ one of
+the latter was excavated in the wall above the
+gateway.</p>
+
+<p>Several ‘hiding-holes’ have also come to light
+in the fine old house of Sutton Place, near
+Guildford, Surrey; and some years ago, a ‘most
+beautifully embossed leather casket, iron-bound,
+containing relics of some of the martyred priests,’
+was found in one of these places of concealment
+behind the wainscot panelling of the chapel. A
+curious printed volume entitled <i>A Sure Haven
+against Shipwreck</i> was found concealed ‘between
+the floor and the ceiling.’ It would seem that
+Brother Nicholas Owen, alias Little John, S.J.,
+‘that useful cunning joiner of those times,’ was
+the constructer of many of these secret rooms,
+to be found in the greater portion of our
+‘stately homes of England,’ for we read in <i>Records
+of the English Provinces</i> that ‘he was divers times
+hung upon a Topcliff rack in the Tower of
+London, to compel him to betray the hiding-places
+he had made up and down the land.’
+This said ‘skilful architect’ was afterwards seized,
+according to the same authority, in company
+with Fathers Garnet and Oldcorne, in one of the
+numerous hiding-places in Hendlip House, near
+Worcester, already referred to in No. 1040 of
+this <i>Journal</i>. The secret chamber in which
+these Jesuit Fathers were concealed is thus
+described in Lingard’s <i>England</i>: ‘The opening
+was from an upper room through the fireplace.
+The wooden border of the hearth was made to
+take up and put down like a trap-door, and the
+bricks were taken out and replaced in their
+courses whenever it was used.’ The former
+Westons of Sutton Place were well known to
+government as shelterers of priests. It was
+searched on the 5th of November 1578, by order
+of the Privy-council, for ‘popish priests;’ and
+again on the 14th of January 1591, for one
+Morgan, a ‘massing priest,’ supposed to be ‘lurking
+there in secret sort.’</p>
+
+<p>The far-famed ‘Burleigh Park by Stamford
+Town’ is also in possession of a secret chamber.
+This concealed apartment, of whose existence the<span class="pagenum" id="Page_644">{644}</span>
+family were altogether unaware, was brought
+to light in the course of this century through
+the instrumentality of the law agent, and was
+found to contain furniture of an old-fashioned
+description, together with several framed engravings.
+These latter, when agitated by the wind,
+which found its way in through a broken window-pane,
+struck against the wall, thereby producing
+a flapping noise, which had long procured for
+the adjoining sleeping apartment the designation
+of ‘the Haunted Room.’</p>
+
+<p>The grand old historic mansion of Knebworth,
+Herts, like others of similar age and importance,
+possessed trap-doors, hiding-places, &amp;c.; and
+underneath a room adjoining the so-styled
+‘Haunted Chamber,’ and belonging to one of the
+square towers of the gateway, there was a
+mysterious room or <i>oubliette</i>, of which the late
+Lord Lytton thus speaks: ‘How could I help
+writing romances, when I had walked, trembling
+at my own footsteps, through that long gallery
+with its ghostly portraits, mused in these tapestry
+chambers, and passed with bristling hair into the
+shadowy abysses’ of the secret chamber. This
+portion of Knebworth was pulled down in 1812.</p>
+
+<p>Referring to houses north of the Border having
+secret chambers, Sir Walter Scott says: ‘There
+were few Scottish houses belonging to families
+of rank which had not such contrivances, the
+political incidents of the times often calling
+them into occupation.’ ‘The concealed apartment
+opening by a sliding panel into the parlour,’
+in the old mansion-house of Swinton, is
+made good use of by Sir Walter in his beautiful
+novel of <i>Peveril of the Peak</i>.</p>
+
+<p>Some ten or twelve years ago, while workmen
+were employed in making alterations at the
+house of Nunraw, near the village of Garvald,
+Haddingtonshire, they came upon a secret
+chamber in the depth of one of the walls,
+which on inspection was found to contain some
+mummies, pictures, and other property. In olden
+times, Nunraw was a nunnery belonging to the
+priory of Haddington, and though modernised,
+still exhibits evident marks of great antiquity.</p>
+
+<p>There is an apartment now used as a bedroom
+in Sir George Warrender’s house at Bruntsfield,
+near Edinburgh, which, however, can hardly be
+called a secret chamber, inasmuch as it possesses
+windows and two external walls, but having the
+interior walls on both sides of the entrance of
+great thickness. The history of this room is
+somewhat obscure. It is said to have been used
+as a place of concealment for certain Jacobites
+after the rebellion of 1745; and blood-stains, which
+are still distinctly visible on the floor, point
+remotely to this theory. Another story is that
+a cadet of the house of Warrender returned from
+Carlisle about 1760, and shortly afterwards died
+in this room, which was immediately bricked
+up, so that all evidences of the event might be
+removed. In any case, the room had remained
+sealed up beyond the recollection of any one
+familiar with the house, and the ivy with which
+the walls were at this time covered, had almost
+entirely obliterated any external traces. It was
+rediscovered about sixty years ago by Lee, the
+English landscape painter, who, when sketching
+the house, found himself putting in windows of
+which he could not remember the rooms. When
+opened, the room presented the appearance of
+having been left hurriedly, by a departing guest,
+everything being in disorder, even to the ashes
+left undisturbed in the grate. Bruntsfield House
+dates from 1605.</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak x-ebookmaker-important" id="BY_ORDER_OF_THE_LEAGUE">BY ORDER OF THE LEAGUE.</h2>
+</div>
+
+
+<h3>CHAPTER V.</h3>
+
+<p><span class="smcap">The</span> weeping woman looked up, and beheld the
+loveliest face she had ever seen. The girl standing
+before her possessed all the attributes of southern
+beauty. Her hair, which was long and luxuriant,
+hung in one thick plait down her back, and lay
+in careless waves upon a forehead pure as chiselled
+marble; her face was full, with deep red flushed
+under the transparent skin; her features exquisitely
+moulded; whilst her eyes, deep as
+running water, conveyed an air of pride and
+power—a sense of passion equally capable of
+looking implacable hate or fondest love. They
+were commanding now, as the woman looked up
+in the stranger’s face.</p>
+
+<p>‘Who are you?’ she asked wonderingly.</p>
+
+<p>‘Men call me Isodore,’ the stranger replied in
+a voice singularly sweet. ‘I have no other
+name. Will you let me look at the coin you
+have in your hand?’</p>
+
+<p>Never dreaming of refusing this request, the
+woman handed over the gold piece to the girl,
+who looked at it long and intently. Her eyes
+were hard and stern when she spoke again.
+‘Where did you get this?’ she asked.</p>
+
+<p>‘It was given me to stake at the table. I
+noticed that it bore some device, and I exchanged
+it for a coin of my own.’</p>
+
+<p>‘It has no meaning to you! It is not possible
+you are one of us?’</p>
+
+<p>‘I do not understand you,’ the woman replied.
+‘It is a curious coin. I have seen one once before—that
+is all I know of it.’</p>
+
+<p>‘Listen!’ the girl said in a hushed voice. ‘You
+do not comprehend what its possession means to
+you. It is the symbol, the sign of membership
+of the strongest political Brotherhood in Europe.
+If it was known to be in your possession, your
+life would pay the forfeit; it would be regained
+at all hazards. If one of the Brotherhood knew
+another had deliberately parted with it, I would
+not give a hair for his life.’</p>
+
+<p>‘And he is in danger of his life!’ the woman
+cried, starting to her feet. ‘Give it me, that I
+may return it to him.’</p>
+
+<p>‘No!’ was the stern reply; ‘he does not get
+off so easily. We do not temper the wind thus
+to traitors.—Woman! what is Hector le Gautier
+to you, that you should do this favour for
+him?’</p>
+
+<p>‘He is a man, and his life is in danger. It is
+my duty’——</p>
+
+<p>‘Mark me!’ Isodore replied with stern emphasis.
+‘I have not the eyes of a hawk and the
+hearing of a hare for nothing. I was opposite
+you in the saloon, and I know that something
+more than womanly sympathy prompts you. I
+saw the struggle in Le Gautier’s face; I saw you
+start and tremble as he spoke to you; I saw you
+change the coin for one of yours, and I saw you
+weeping over it just now. Woman! I ask again
+what is he to you?’</p>
+
+<p>Slowly the words came from the other’s lips,<span class="pagenum" id="Page_645">{645}</span>
+as if forced from them by some mesmeric influence.
+‘You are right,’ she said; ‘for—heaven
+help me—he is my husband! I am Valerie le
+Gautier.—Now, tell me who you are.’</p>
+
+<p>‘Tell me something more. How long has he
+been your husband?’</p>
+
+<p>‘Nine years—nine long, weary years of coldness
+and neglect, hard words, and, to my shame,
+hard blows. But he tired of me, as he tires of
+all his toys; he always tires when the novelty
+wears off.’</p>
+
+<p>‘Yes,’ Isodore said softly, ‘as he tired of
+me.’</p>
+
+<p>‘You!’ exclaimed Valerie le Gautier, starting—‘you!
+What! and have you, too, fallen a
+victim to his treachery? If you have known
+him, been a victim to his perfidy, then, from
+the bottom of my heart, I pity you.’</p>
+
+<p>‘And I need pity.’</p>
+
+<p>For a short space neither spoke, as they sat
+listening to the murmur of the leaves in the trees,
+broken every now and then by the sounds of play
+or laughter within the glittering saloon. Isodore’s
+face, sad and downcast for a moment, gradually
+resumed its hard, proud look, and when she spoke
+again, she was herself.</p>
+
+<p>‘We have a sympathy in common,’ she said.
+‘We have a debt to pay, and, by your help, I will
+pay it. Justice, retribution is slow, but it is
+certain. Tell me, Valerie—if I may call you by
+your name—how long is it since you saw your
+husband till to-night?’</p>
+
+<p>‘Seven years—seven years since he deserted
+me cruelly and heartlessly, leaving me penniless
+in the streets of Rome. I had to live how I
+could; I even begged sometimes, for he has
+squandered the little money I brought to him.’</p>
+
+<p>‘Do you think he knew you to-night?’ Isodore
+asked.</p>
+
+<p>‘Knew me?’ was the bitter response. ‘No,
+indeed. Had he known I was so near, he would
+have fled from my presence.’</p>
+
+<p>‘He laughs at us, no doubt, as poor defenceless
+women. But time will show. I can ever
+find an hour in the midst of my great work to
+watch his movements. I have waited long; but
+the day is coming now.—Would you know the
+latest ambition of your honourable husband?
+He intends to get married again. He has dared
+to lift his eyes to Enid Charteris.’</p>
+
+<p>‘Hector dares to marry again!’ Valerie exclaimed,
+‘and I alive? Oh, I must take vengeance,
+indeed, for this.’</p>
+
+<p>She drew a long breath, shutting her lips
+tightly. The passion of jealousy, long crushed
+down, rose with overwhelming force; she was
+no longer a weak defenceless woman, but a
+fury, maddened and goaded to the last extremity.</p>
+
+<p>Isodore watched her, well pleased with this display
+of spirit. ‘Now you speak,’ she said admiringly,
+‘and I respect you. All your womanhood
+is on fire within you to avenge the wrongs of
+years, and it shall be no fault of mine if they
+slumber again. Yes, your perfect husband designs
+to wed again.’</p>
+
+<p>‘I believe you are a witch. You have roused
+my curiosity; you must tell me more than
+this.’</p>
+
+<p>‘Hector le Gautier is in love,’ Isodore replied,
+a world of quiet scorn running through her
+words, ‘and, strange as it may seem, I believe
+true. An English girl—Enid Charteris, with
+the blue eyes and fair hair—has bewitched him,
+satiated as he is with southern beauty.—You
+look surprised! I have the gift of fern-seed,
+and walk invisible. All these things I know.
+The Order is to be betrayed when the pear is
+ripe, and the traitor will be Hector le Gautier.
+The price of his treachery will enable him to
+become respectable, and lead a quiet life henceforward
+with his loving fair-haired bride. Poor,
+feeble, calculating fool!’ The bitter scorn in
+these words was undescribable, and round the
+speaker’s lips a smile was wreathed—a smile of
+placid unrelenting hate and triumph strangely
+blended.</p>
+
+<p>‘It shall never be,’ Valerie cried passionately,
+‘while I can raise my voice to save an innocent
+girl from the toils of such a scoundrel!—Yes,’
+she hissed out between her white clenched teeth,
+‘it will be a fitting revenge. It would be bliss
+indeed to me if I could stand between them
+at the altar, and say that man is mine!’</p>
+
+<p>‘He is ours,’ Isodore corrected sternly; ‘do
+not ignore that debt entirely. Be content to
+leave the plot to me. I have worked out my
+scheme, and we shall not fail. Five years ago,
+I was a child, happy on the banks of my
+beloved Tiber. It was not far from Rome
+that we lived, my old nurse and I, always
+happy till he came and stole away my heart
+with his grand promises and sweet words. Six
+short months sufficed him, for I was only a
+child then, and he threw away his broken plaything.
+It made a woman of me, and it cost me
+a lover worth a world of men like him. I told
+him I would have revenge. He laughed then;
+but the time is coming surely. I have a powerful
+interest in the Brotherhood; he knows me
+by name, but otherwise we are strangers. To-night,
+I saw my old lover in his company. Ah,
+had he but known!—Come, Valerie; give me
+that coin, the lucky piece of gold which shall
+lure him to destruction. Come with me; I
+must say more to you.’</p>
+
+<p>Mechanically, Valerie le Gautier followed her
+companion out of the Kursaal gardens, through
+the streets, walking till they got a little way out
+of the town. At a house there, a little back
+from the road, Isodore stopped, and opened the
+door with a passkey. Inside, all was darkness;
+but taking her friend by the hand, and bidding
+her not to fear, Isodore led her forward along a
+flagged passage and up a short flight of steps.
+Opening another door, and turning up the hanging
+lamp, she smiled. ‘Sit down,’ she said, ‘my
+sister that is to be. You are welcome.’</p>
+
+<p>The apartment was somewhat large and lofty.
+By the light from the silver lamp, suspended from
+the ceiling in an eagle’s beak, the stranger noticed
+the room with its satin-wood panels running half
+way up the walls, surmounted by crimson silk
+hangings, divided over the three long windows
+by gold cords; a thread of the same material
+running through the rich upholstery with which
+the place was garnished. The floor was paved
+with bright coloured woodwork of some mysterious
+design; and heavy rugs, thick and soft to
+the feet, scattered about sufficient for comfort, but
+not enough to mar the beauty of the inlaid floor.
+Pictures on china plates let into the hangings<span class="pagenum" id="Page_646">{646}</span>
+were upon the walls; and in the windows were
+miniature ferneries, a little fountain plashing
+in the midst of each. There was no table in
+the room, nothing whereon to deposit anything,
+save three brass stands, high and narrow; one
+a little larger than the rest, upon which stood
+a silver spirit-lamp under a quaint-looking urn,
+a chocolate pot to match, and three china cups.
+There were cosy-looking chairs of dark massive
+oak, upholstered in red silk, with the same gold
+thread interwoven in all. A marble clock, with
+a figure of Liberty thereon, stood on the mantel-piece.</p>
+
+<p>Isodore threw herself down in a chair. The
+other woman took in the scene with speechless
+rapture; there was something soothing in the
+harmonious place. ‘You are pleased,’ Isodore
+said with a little smile of pleasure, as she surveyed
+the place. ‘This is my home, if I can
+call any place a home for such a wanderer;
+but when I can steal a few days from the cares
+of the cause, I come here. I need not ask
+you if you like my apartments?’</p>
+
+<p>‘Indeed, I do,’ Valerie replied, drawing a long
+breath of delight. ‘It is absolutely perfect. The
+whole thing surprises and bewilders me. I should
+not have thought there had been such a place
+in Homburg.’</p>
+
+<p>‘I will give you another surprise,’ Isodore
+laughed, ‘before the evening is over. I am the
+princess of surprises; I surprise even the followers
+who owe me loyal submission.’</p>
+
+<p>‘Ah! had I such a paradise as this, I should
+forswear political intrigue. I should leave that
+to those who had more to gain or to lose by such
+hazards. I should be content to let the world go
+on, so that I had my little paradise.’</p>
+
+<p>‘So I feel at times,’ Isodore observed with
+a little sigh. ‘But I am too deeply pledged
+to draw my hand back now. Without me, the
+Order is like an army deprived of its general;
+besides, I am the creature of circumstance; I
+am the sworn disciple of those whose mission
+it is to free the down-trodden from oppression
+and to labour in freedom’s name.’ As she said
+these words, the sad look upon her brow cleared
+away like mist before the sun, and a proud
+light glistened in the wondrous eyes. Half
+ashamed of her enthusiasm, she turned to the
+stand by her side, and soon two cups of chocolate
+were frothed out of the pot, filling the room
+with its fragrance. Crossing the floor, she handed
+one of the cups to her new-found friend. For
+a moment they sat silent, then Isodore turned
+to her companion smilingly.</p>
+
+<p>‘How would you like to go with me to
+London?’ she asked.</p>
+
+<p>‘I would follow you to the world’s end!’
+was the fervid reply; ‘but there are many difficulties
+in the way. I have my own living to
+get, precarious as it is, and I dare not leave
+this place.’</p>
+
+<p>‘I permit no difficulties to stand in my way,’
+Isodore said proudly; ‘to say a thing, with me,
+is to do it. Let me be candid with you, Valerie.
+Providence has thrown you in my path, and
+you will be useful to me; in addition, I have
+taken a fancy to you. Yes,’ she continued fervently,
+‘the time has come—the pear is ripe.
+You shall come with me to London; you have a
+wrong as well as I, and you shall see the height
+of Isodore’s vengeance.’ Saying these words in a
+voice quivering with passionate intensity, she
+struck three times on the bell at her side. Immediately,
+in answer to this, the heavy curtains
+over the door parted, and a girl entered.</p>
+
+<p>She was Isodore’s living image; the same style
+and passionate type of face; but she lacked the
+other’s firm determined mouth and haughtiness
+of features. She was what the lily is to the
+passion-flower. Her eyes were bent upon her
+sister—for she was Lucrece—with the same love
+and patient devotion one sees in the face of a
+dog.</p>
+
+<p>‘You rang, Isodore?’ she asked; and again
+the stranger noticed the great likeness in the
+voice, save as to the depth and ring of Isodore’s
+tones.</p>
+
+<p>‘Yes, Lucrece, I rang,’ the sister replied. ‘I
+have brought a visitor to see you.—Lucrece, this
+lady is Hector le Gautier’s wife.’</p>
+
+<p>‘Le Gautier’s wife?’ the girl asked with
+startled face. ‘Then what brings her here? I
+should not have expected’——</p>
+
+<p>‘You interrupt me, child, in the midst of my
+explanations. I should have said Le Gautier’s
+deserted wife.’</p>
+
+<p>‘Ah!’ Lucrece exclaimed, ‘I understand.—Isodore,
+if you collect under your roof all the
+women he has wronged and deceived, you will
+have a large circle. What is she worth to us?’</p>
+
+<p>‘Child!’ Isodore returned with some marked
+emphasis on her words, ‘she is my friend—the
+friend of Isodore should need no welcome
+here.’</p>
+
+<p>A deep blush spread over the features of
+Lucrece at these words, as she walked across the
+room to Valerie’s side. Her smile was one of
+consolation and welcome as she stooped and
+kissed the other woman lightly. ‘Welcome!’
+she said. ‘We see both friends and foes here,
+and it is hard sometimes to tell the grain from
+the chaff. You are henceforward the friend of
+Lucrece too.’</p>
+
+<p>‘Your kindness almost hurts me,’ Valerie replied
+in some agitation. ‘I have so few friends, that
+a word of sympathy is strange to me. Whatever
+you may want or desire, either of you, command
+me, and Valerie le Gautier will not say you
+nay.’</p>
+
+<p>‘Lucrece, listen to me,’ said Isodore in a voice
+of stern command. ‘To-morrow, we cross to
+London, and the time has come when you must
+be prepared to assist in the cause.—See what I
+have here!’ Without another word, she placed
+the gold moidore in her sister’s hand.</p>
+
+<p>Lucrece regarded it with a puzzled air. To
+her simple mind, it merely represented the badge
+of the Brotherhood.</p>
+
+<p>‘You do not understand,’ Isodore continued,
+noticing the look of bewilderment. ‘That coin,
+as you know, is the token of the Order, and to
+part with it knowingly is serious’——</p>
+
+<p>‘Yes,’ Lucrece interrupted; ‘the penalty is
+death.’</p>
+
+<p>‘You are right, my sister. That is Le Gautier’s
+token. He staked it yonder at the Kursaal,
+giving it to his own wife, though he did not
+know it, to put upon the colour. The coin is in
+my hands, as you see. Strange, how man becomes
+fortune’s fool!’</p>
+
+<p>‘Then your revenge will be complete,’ Lucrece<span class="pagenum" id="Page_647">{647}</span>
+suggested simply. ‘You have only to hand it
+over to the Council of Three, or even the
+Crimson Nine, and in one hour’——</p>
+
+<p>‘A dagger’s thrust will rid the world of a
+scoundrel.—Pah! you do not seem to understand
+such feeling as mine. No, no; I have another
+punishment for him. He shall live; he shall
+carry on his mad passion for the fair-haired Enid
+till the last; and when his cup of joy shall seem
+full, I will dash it from his lips.’</p>
+
+<p>‘Your hate is horrible,’ Valerie exclaimed with
+an involuntary shudder. ‘I should not like to
+cross your path.’</p>
+
+<p>‘My friends find me true,’ Isodore answered
+sadly; ‘it is only my enemies that feel the
+weight of my arm.—But enough of this; we
+need stout hearts and ready brains, for we have
+much work before us.’</p>
+
+<p>Three days later, and the women drove through
+the roar and turmoil of London streets. They
+were bent upon duty and revenge. One man in
+that vast city of four or five million souls was
+their quarry.</p>
+
+
+<h3>CHAPTER VI.</h3>
+
+<p>Mr Varley, Sir Geoffrey Charteris’ valet and
+factotum, and majordomo in the baronet’s town
+residence, Grosvenor Square, was by no means
+devoid of courage; but the contents of the note
+he was reading in the hall one fine morning early
+in May were sufficient to put to flight for the
+moment any vengeful schemes he was harbouring
+against the wily gentleman who has just
+quitted the house, and that gentleman no less a
+person than our old friend Le Gautier.</p>
+
+<p>Timothy Varley was an Irishman, and had
+been in his youth what is termed a patriot. In
+his hot blood he had even joined a League for
+the ‘removal of tyrants;’ but the League, in
+spite of its solemn form and binding oaths, had
+died a natural death. At times, however, the
+recollection of it troubled Mr Varley’s conscience
+sorely. It was destined to be brought to his mind
+now in a startling manner.</p>
+
+<div class="blockquot">
+
+<p>‘G. S. I. You will be at the corner of Chapel
+Place to-night at nine. A girl will meet you,
+and show you the way. You are wanted; your
+turn has come. Do not fail.—<span class="smcap">Number XI.</span>’</p>
+</div>
+
+<p>Never did Bob Acres, in that celebrated comedy,
+<i>The Rivals</i>, feel the courage oozing from his
+finger-tips as did Timothy Varley now. He
+turned the missive over in his fingers; but no
+consolation was to be derived from that; and
+bitterly did he revile the juvenile folly that had
+placed him in such a position at this time of
+life.</p>
+
+<p>‘It is no sham,’ he muttered to himself. ‘God
+save Ireland—that is the old countersign; and
+to think of it turning up now! I had forgotten
+the thing years ago. This comes of joining secret
+societies—a nice thing to bring a respectable
+family man to! Now, by the powers! who was
+Number Eleven? That used to be Pat Mahoney;
+and a mighty masterful man he was, always ready
+with his hands if anything crossed him. O dear,
+O dear! this is a pretty thing. Maybe they
+want to mix me up with dynamite; but if they
+do, I won’t do it, and that’s flat. I suppose I
+shall have to go.’</p>
+
+<p>Giving vent to these words in a doleful tone
+of voice, he betook himself to his private sanctum.
+His spirits were remarked to be the reverse of
+cheerful, and he declined a glass of sherry at
+lunch, a thing which roused much speculation
+below stairs.</p>
+
+<p>Punctual to the moment, Timothy Varley
+stood in Chapel Place waiting for his unknown
+guide. Just as he was beginning to imagine the
+affair to be a hoax, and congratulating himself
+thereon, a woman passed him, stopped, and
+walked in his direction again. ‘God save
+Ireland!’ she said as she repassed.</p>
+
+<p>‘Amen, not forgetting one Timothy Varley,’ he
+returned piously.</p>
+
+<p>‘It is well,’ the woman replied calmly, ‘that
+you are here. Follow me!’</p>
+
+<p>‘With the greatest of pleasure.—But hark
+here; my legs are not so young as yours: if we
+are going far, let us have a cab, and I’ll stand
+the damage.’</p>
+
+<p>‘There is no occasion,’ the stranger said in a
+singularly sweet voice. ‘We have not a great
+distance to travel.’</p>
+
+<p>‘Not good enough to ride in the same carriage
+with a gentleman’s gentleman,’ Varley muttered,
+for he did not fail to note the stranger’s refined
+tones.</p>
+
+<p>His guide led him along Tottenham Court
+Road, and thence to Fitzroy Square. Turning
+into a little side-street, she reached at length a
+door, at which she knocked.</p>
+
+<p>In a room on the first floor, Isodore and Valerie
+le Gautier were seated, waiting the advent of
+Lucrece and the stranger. Varley began to feel
+bewildered in the presence of so much beauty
+and grace; for Isodore’s loveliness overpowered
+him, as it did all men with whom she came
+in contact. Scarcely deigning to notice his presence,
+she motioned him to a chair, where he
+sat the picture of discomfiture, all traces of the
+audacious Irishman having disappeared.</p>
+
+<p>‘Your name is Timothy Varley?’ Isodore
+said.</p>
+
+<p>‘Yes, miss; leastways, it was when I came
+here, though, if you were to tell me I was the
+man in the moon, I couldn’t say nay to you.’</p>
+
+<p>‘I know you,’ Isodore continued. ‘You were
+born near Mallow, joined the United Brotherhood
+thirty years ago, and your Number was
+Twenty-six. If I am wrong, you will please
+correct me.’</p>
+
+<p>‘For goodness’ sake, miss—my lady, I mean—don’t
+speak so loud. Think what might happen
+to me if any one knew!’</p>
+
+<p>‘No wonder your countrymen fail, with such
+chicken-hearts among them,’ Isodore observed
+scornfully. ‘I do not want to do you any
+harm; quite the contrary. There is an advertisement
+in to-day’s <i>Times</i>. Your mistress is in
+search of a maid. Is that so?’</p>
+
+<p>Timothy Varley began to breathe a little more
+freely. ‘Yes,’ he answered glibly; ‘she does
+want a maid. She must be honest, sober, and
+industrious; ready to sit up all night if necessary,
+and have a good temper—not that Miss
+Enid will try any one’s temper much. The last
+girl was discharged’——</p>
+
+<p>‘Now, Mr Varley, I know a girl who must
+fill that vacancy. I do not wish to threaten
+you or hold any rod of terror over your head;<span class="pagenum" id="Page_648">{648}</span>
+but I shall depend upon you to procure it for
+my protégée.’</p>
+
+<p>The conversation apparently was not going to
+be so pleasant. Timothy Varley’s mind turned
+feebly in the direction of diamond robberies.</p>
+
+<p>‘Well, miss—that is, my lady—if I may make
+so bold as to ask you a question: why, if the
+matter is so simple, don’t you write to my young
+mistress and settle the matter that way?’</p>
+
+<p>‘Impossible,’ Isodore replied, ‘for reasons I
+cannot enter into with you. You must do what
+I ask, and that speedily.—You have a certain
+Monsieur le Gautier at your house often?’</p>
+
+<p>This question was so abruptly asked, that
+Varley could not repress a start. ‘We have,’
+he growled—‘a good deal too often, to please
+me. My master dare not call his body his own
+since he first began to come to the house with
+his signs and manifestations.—You see,’ he explained,
+‘servants are bound to hear these
+things.’</p>
+
+<p>‘At keyholes and such places,’ Isodore smiled.
+‘Yes, I understand such things do happen occasionally.
+So this Le Gautier is a spiritualist,
+is he; and Sir Geoffrey is his convert?’</p>
+
+<p>‘Indeed, you may say that,’ Varley burst out
+in tones of great grievance. ‘The baronet sees
+visions and all sorts of things.’</p>
+
+<p>‘Is it possible,’ Valerie whispered to her friend,
+‘that Hector has really succeeded in gaining
+an influence over this Sir Geoffrey by those
+miserable tricks he played so successfully at
+Rome?’</p>
+
+<p>‘It is very probable,’ Isodore murmured in
+reply. ‘This Sir Geoffrey is very weak in intellect.—Tell
+me, Mr Varley,’ she continued, turning
+in his direction, ‘does the baronet keep much
+of Monsieur le Gautier’s company? Does he
+visit at his rooms?’</p>
+
+<p>‘I believe he does; anyway, he goes out
+at nights, and always comes back looking as if
+he had seen a ghost. Whatever his game may
+be—and sure enough there is some game on—it’s
+killing him by inches, that’s what it’s
+doing.’</p>
+
+<p>‘And this change you put down to Le Gautier?
+Perhaps you are right. And now, another question.
+Is not there another reason, another attraction
+besides discussing spiritualism with Sir
+Geoffrey, that takes him to Grosvenor Square?’</p>
+
+<p>Varley so far forgot himself as to wink impressively.
+‘You might have made a worse guess
+than that,’ he said. ‘I am not the only one
+who can see what his designs are. Miss Enid
+is the great attraction.’</p>
+
+<p>‘And she?’</p>
+
+<p>‘Hates him, if looks count for anything.—And
+so do I,’ he continued; ‘and so do all of us, for
+the matter of that. I would give a year’s salary
+to see his back turned for good!’</p>
+
+<p>‘Mr Varley,’ Isodore said in grave tones, ‘I
+sent for you here to work upon your fears, and to
+compel you, if necessary, to do my bidding. That,
+I see, is not necessary, for we have a common
+bond of sympathy. For reasons I need not state
+here, we have good reasons for keeping a watch
+over this Le Gautier; but rest assured of one
+thing—that he will never wed your mistress.
+I shall hold you to secrecy.—And now, you must
+promise to get my protégée this situation.’</p>
+
+<p>‘Well, I will do my best,’ Varley replied
+cheerfully. ‘But how it is going to be done,
+I really can’t see.’</p>
+
+<p>‘Irishmen are proverbial for their inventive
+powers, and doubtless you will discover a way.—The
+new maid is a French girl, remember, the
+daughter of an old friend. Perhaps you would
+like to see her?’ With a gesture she indicated
+Lucrece, who came forward, turning to the Irishman
+with one of her most dazzling smiles. The
+feeling of bewilderment came on again.</p>
+
+<p>‘She!’ he cried; ‘that beautiful young lady
+a servant?’</p>
+
+<p>‘When she is plainly dressed, as suitable to
+her lowly station, she will appear different.’</p>
+
+<p>‘Ah, you may pull the leaves from the flowers,
+but the beauty remains to them still,’ Varley
+replied, waxing poetical. ‘However, if it must
+be, it must; so I will do my best.’</p>
+
+<p>Varley’s diplomacy proved successful, for, a
+week later, Lucrece was installed at Grosvenor
+Square.</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="MINERAL_SUBSIDENCE">MINERAL SUBSIDENCE.</h2>
+</div>
+
+
+<p><span class="smcap">The</span> alarming subsidence which took place some
+time ago in Scotland, on the North British
+Railway near Prestonpans, and which was fortunately
+unattended with any accident, has doubtless
+added a fresh source of fear to the nervous
+railway passenger. That the permanent way of a
+railway for a distance of about fifty yards should
+suddenly sink to the extent of two feet is almost
+incomprehensible at first; and had this subsidence
+occurred whilst the train was passing,
+instead of immediately afterwards, the consequences
+might have been disastrous. It is the
+case, however, though it may not be generally
+known, that subsidences—fortunately only
+gradual, and comparatively inappreciable—are
+taking place over many of our railway lines,
+and that ‘minerals’ are actually being extracted
+from underneath nearly every line of railway
+under which there is any mineral to get.</p>
+
+<p>The damage done to the line at Prestonpans
+was reported to have been caused by coal-workings
+which were there long before the railway
+was laid; but if it was caused by them at all,
+it was on account of their being influenced by
+the working of a seam of coal below them, which
+was going on at the time the subsidence occurred.
+It is the fact, however, that when a Railway
+Company acquires ground under its parliamentary
+powers, the minerals underneath the ground do not
+pass along with it. This may seem a little surprising
+at first; but it is not so when it is considered
+that very frequently the proprietor of the surface
+of the ground and the proprietor of the minerals
+underneath it are different persons. Of course
+the proprietor of an estate under no reservations
+is proprietor as high as he can get and as deep
+as he cares to go; but he may sell or lease the
+minerals and retain the surface, or <i>vice versâ</i>.
+Thus it is that a Railway Company has only,
+as it were, a right of passage over the surface;
+and that its right goes no deeper, except for the
+construction or up-keep of its lines. By Act of
+Parliament, however, the proprietor of minerals
+below any railway line, before proceeding to
+work them, must give notice to the Railway<span class="pagenum" id="Page_649">{649}</span>
+Company of his intention to do so, so as to give
+the Company an opportunity of buying him off,
+should it feel disposed. If it does not declare
+its option to purchase the minerals, the workings
+proceed, and the railway has to take its
+chance. The mineral owner will, however, be
+held liable, should any damage occur owing to
+improper working.</p>
+
+<p>The subsidence of a railway line underneath
+which the minerals have been worked is as a
+rule very gradual, and extends over some length
+of time. Many railway passengers must have
+noticed the walls of waiting-rooms disfigured by
+ungainly cracks, the stone lintels displaced, the
+hearthstones awry, and many other signs, which
+are caused by the working of minerals underneath.
+Some station-masters can show you on the stone
+face of the platform the number of inches the
+line has sunk. As a matter of fact, were it not
+for the gangs of surfacemen the Railway Companies
+employ to watch any irregularities in their
+lines, in a very short space of time the permanent
+way would in many places probably represent
+something like the proposed line of the Undulating
+Railway, a fantastical scheme of long ago.
+The railway in Ayrshire which runs over the
+old workings of the famous Wishaw coal-seam,
+especially suffers in the way of subsidence;
+and some parts of the railway in the west of
+Fife are known to have gradually sunk to an
+extent of over ten feet.</p>
+
+<p>But railway lines are not the only parts of
+the surface which are subsiding owing to the
+working of minerals. The whole surface of the
+land surrounding the many pits and mines which
+are continually belching forth their wagon-loads
+of coal or other mineral, is gradually subsiding
+as the extraction of the mineral proceeds; and
+damage amounting to thousands of pounds is
+annually being done to the surface and the buildings
+on it owing to mineral workings. As the
+period and extent of the subsidence and the
+damage following on it depend greatly on the
+method employed in working the coal, a word
+or two here on this subject may not be out of
+place.</p>
+
+<p>There are two recognised methods of working
+out coal. The old method is what is known as
+the ‘stoop-and-room’ or ‘pillar-and-room’ system;
+and the method introduced into Scotland about
+the beginning of the present century is known
+as the ‘longwall’ or ‘Shropshire’ system of
+working. The first system explains itself by its
+name. After the bed of coal is struck, ‘rooms’
+are worked out, leaving ‘pillars’ or ‘stoops’ to
+support the superincumbent strata. The object
+to be attained in this system, as practised in the
+olden times, was to have as large a room worked
+out, and as small a stoop or pillar of the coal
+itself left, as was consistent with the safety of
+the mine and the support of the surface, while
+the mine was open. But this system entailed the
+entire loss of the pillars so left. To obviate
+this loss, the method now generally adopted is to
+drive narrow rooms or passages, seldom exceeding
+fourteen feet, through the seam, leaving large
+pillars—about seventy-five per cent. of the mineral—until
+the extremity of the available coal is
+reached. When, however, no regard is to be had
+for the surface, and the coal has been thus worked
+out as far as can be done, the miner commences
+to work backwards, taking out the stoops or
+pillars as he goes. The whole roof of the mine
+then comes down; and this is the most dangerous
+kind of subsidence. It does not only take effect
+immediately above the place where ‘stooping’
+has been going on, but it also ‘draws’ round
+about it.</p>
+
+<p>The ‘longwall’ or Shropshire method of working
+is what is known as the system of complete
+excavation; that is, the miner takes out the
+whole coal as he proceeds, leaving only perhaps
+a foot on the roof, should the overlying
+strata be soft, and props up a passage with
+wooden supports as he proceeds, to enable
+him to keep an open way to the face of the
+coal. The portions worked out are packed
+on each side of the ‘road’ with the waste
+material taken out with the coal. This method
+of working, though it necessarily implies subsidence,
+is on the whole the safest for the
+surface, and is generally the one adopted. In
+fact, as mineral landlords are paid, in lieu of
+rent, a royalty or lordship on every ton of coal
+or other mineral brought to the surface, and as
+the tenant can more quickly extract the mineral
+by the wooden props method, he is generally
+bound in his lease to work in this manner, when
+practicable.</p>
+
+<p>Should the coal be worked on the stoop-and-room
+system, and pillars of coal of sufficient size
+be left in, the surface will not be injured to any
+appreciable extent, at least not for many years.
+As is often the case, however, seams of coal are
+worked out one below the other; and when the
+lower one gives way, the pillars above may fall
+like a pack of cards. There is no saying where
+the subsidence would reach in such a case. If
+the pillars do not break, the way in which the
+‘rooms’ close up, if the floor is soft, is rather
+peculiar. The roof does not all fall in, as would
+be expected; but the enormous weight of the
+superincumbent strata pressing on the pillars
+causes the floor between them to rise up or
+‘creep,’ and the room becomes closed. On the
+other hand, if the stoops of coal are taken out,
+the roof comes down with a crash, and the effects
+on the surface may be disastrous; but of course
+it sometimes pays better to get out all the coal
+and let the surface go, than to allow the workings
+to get closed up and the coal in the pillars
+to be lost for ever.</p>
+
+<p>The subsidence following on a ‘longwall’ working
+is gradual, but sure. The surface is not
+broken to any great extent, but comes down in
+one sheet, and not irregularly, as in stoop-and-room
+workings. The strata generally come to rest in
+about three or four years. A row of houses which
+have been cracked through and through on the
+subsidence reaching the surface, have been known
+to close up again when the strata have settled.</p>
+
+<p>The damage done by pillar-and-room workings
+is irregular both as regards effect and time. It
+may commence, stop, and commence again.
+Houses are literally wrecked by it. So palpable
+is it, indeed, that actually the sound of the
+crushing and subsiding of the house can be
+distinctly heard. The slates are twisted off the
+roof, the chimneys hang in all directions, the
+walls are rent asunder, the foundations give
+way, and the house is rendered uninhabitable.
+An instance of this is to be found in the<span class="pagenum" id="Page_650">{650}</span>
+salt-workings of Cheshire, in the neighbourhood
+of which, houses are constantly being wrecked.
+Thousands of pounds are paid every year by
+mine-owners for damages done to surface proprietors,
+farmers, and others; and there is no
+more fruitful source of litigation than surface-damage.</p>
+
+<p>Even under public roads, we find the minerals
+being worked. The public have only a right
+of passage, the minerals underneath belonging to
+the adjoining proprietor, and it is not an uncommon
+circumstance in mining districts for a
+road to suddenly sink several feet.</p>
+
+<p>In the case of a proprietor of minerals in lands
+adjoining the sea, his right, as a general rule,
+extends only to high-water mark. Below that
+line, underneath the foreshore and the sea itself,
+the minerals belong to the Crown. The Crown,
+of course, can lease the minerals, and they
+are very frequently worked under the sea itself.
+In such a case, great precautions have to be
+observed in the workings, to prevent any chance
+of the sea breaking in, though, when the stratum
+above is rock, the mineral is sometimes worked
+out within a very few feet of the bottom of the
+sea! In some mines, the roar of the ocean
+above can be distinctly heard.</p>
+
+<p>This, however, is a digression from the subject
+of subsidence. Subsidence of the surface above
+our almost inexhaustible beds of coal has been
+going on, and will go on more or less, until
+that day in the dim futurity which has been
+foretold, when our coal-seams will have become
+exhausted, but when, let us hope, the inventive
+genius of posterity will have discovered another
+fuel, or done away with the necessity of fuel
+altogether.</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="GEORGE_HANNAYS_LOVE_AFFAIR">GEORGE HANNAY’S LOVE AFFAIR.</h2>
+</div>
+
+
+<h3>CHAPTER II.—LOVE’S YOUNG DREAM.</h3>
+
+<p><span class="smcap">For</span> a few days Anne Porteous felt rather miserable.
+She was angry with herself for her imprudence
+in allowing such a misfortune to have
+happened; her feminine vanity was not in the
+least bit tickled at having the refusal of the
+famous editor, for she was not at all of that
+class of savage females who gloat over the roll
+of their rejected suitors as a Red Indian does
+over his string of scalps. No; she felt really
+and truly vexed for her old and kind friend,
+though, with the inconsistency of her sex, she
+could not but feel just the least bit piqued that,
+seeing he had cared for her so much as to ask
+her to be his wife, he had taken her unavoidable
+refusal so calmly and in such good part. She
+was glad to find, however, he had not forgotten
+her altogether; although he was now at Lucerne,
+she got the <i>Olympic</i> and other London magazines
+addressed to her in his familiar splashy handwriting,
+just as before. But there were no letters
+now. Formerly, she used to act as correspondent
+between him and her father, whose fingers were
+too stiff from rheumatism to make writing convenient.
+She missed the gay cheerful letters,
+with their satirical sketches of the lions of the
+circles he moved in, and their playful banter
+of herself even. However, one day the postman
+brought a letter which turned her thoughts into
+an entirely different channel. It ran as follows:</p>
+
+<div class="blockquot">
+<p class="right">
+<span class="smcap">Brussels</span>, 19th <i>Sept.</i> 188-.<br>
+</p>
+
+<p><span class="smcap">My darling Nan</span>—I have just time to write
+this before starting for London by the tidal
+train. Old Uncle Joseph is dead. I have just
+got the telegram announcing the event, which
+took place this morning. I hope he will have
+left me a good round sum, so that I can start
+practice at once, and then a certain young lady
+I know of will not be long of coming to keep
+house for me. With a thousand kisses.—Yours
+ever,</p>
+
+<p class="right">
+<span class="smcap">Alfred Roberton.</span><br>
+</p>
+</div>
+
+<p>She mused over this letter for a few minutes;
+something in it jarred on her feelings. She did
+not quite like the matter-of-fact way in which
+the writer announced the death of his uncle,
+to whom he was entirely indebted for his upbringing
+and education. Nor was she quite
+pleased at the assured way he spoke of a ‘certain
+young lady’ coming to keep house for him.
+Why, as yet he had not even seen her father—not
+to speak of his having got no consent to
+their union. Nan was a pre-eminently practical
+young woman; but a kind, loving, faithful heart
+beat in her bosom, and it resented the tone of
+the note as being callous and far too self-assured.
+Of course, it was written under a
+pressure for time; but still it might have contained
+some little expression of sorrow for the
+death of one who had done so much for him,
+instead of hoping for a good legacy.</p>
+
+<p>Alfred Roberton was her engaged lover. She
+met him at a dancing party given by a mutual
+friend in le Quartier l’Anglais, Brussels. He
+was possessed of a stalwart handsome figure, and
+an agreeable face and voice. That he was clever,
+might possibly be inferred from the fact that
+he had carried off quite a number of college
+honours. That he thought himself clever, didn’t
+require to be inferred from anything—it was
+stamped on his face, and showed itself in his
+every look and gesture. Whether Anne saw
+this, we know not; if she did, it was insufficient
+to prevent her falling deeply in love
+with him. A few moonlight strolls under
+the linden trees, a few soft pressures of the
+hand, a few sighs and tender speeches, and
+practical, sober-minded Anne gave her whole
+heart to this handsome youth—the first who
+had ever addressed her in the magic accents
+of love. And he? Well, he loved truly and
+sincerely enough in his own sort of way, just
+as he had loved other young ladies before. He
+was one of those men who seem to hold a
+power of fascination over the other sex. He
+did not mean to be a flirt—but how could he
+help the girls falling in love with him? He
+couldn’t make a brute of himself, and be rude
+and insolent to them—could he? His conquests
+were, however, usually of brief duration; for some
+reason or other not known, his previous love
+affairs had come to an untimely end. It
+was generally thought by his friends—and himself
+too—that his love for Anne was sincere
+and genuine, and could end in nothing else
+than matrimony. His uncle’s demise would
+bring matters to a crisis. He had adopted him
+at an early age, being himself a childless widower.
+Mr Joseph Roberton was a Scotchman, and had<span class="pagenum" id="Page_651">{651}</span>
+gone early in life to push his fortune in the
+great Metropolis. Starting business after a while
+as a cheesemonger, he had in the course of years
+managed to scrape together quite a little fortune;
+and when his brother died, he gladly adopted
+his only son Alfred, and gave him a first-class
+education. When he arrived at an age for
+choosing a business or profession, he expressed
+a desire to be a doctor, so his uncle sent him
+to Edinburgh University, where, in due course
+of time, he received his diploma of M.D. While
+he was engaged pursuing his medical studies, his
+uncle took it into his head to marry his housekeeper,
+Mrs Janet Grant. Alfred did not like
+this change in the old gentleman’s domestic
+arrangements, for, truth to say, there was little
+love lost between him and the late housekeeper;
+but any unpleasant feeling he might have felt
+in the matter was changed into unmitigated
+disgust by the advent of a baby-cousin—his
+uncle’s son and heir. The old gentleman was
+of course delighted at this addition to his family;
+but it did not make any difference in his treatment
+of his nephew. He still gave him an
+allowance of three hundred pounds a year; and
+as he had now got his professional degree, it
+was arranged that he should travel on the continent
+for a year, visiting the various centres of
+medical science, and making himself acquainted
+with the latest discoveries, before beginning practice
+in London. It was while on this tour that
+he met Anne Porteous.</p>
+
+<p>About a week after receiving her lover’s letter,
+a tall, gentlemanly looking stranger entered the
+coffee-room of Lochenbreck Inn, and, much to
+the waiting-maid’s surprise, asked to see Miss
+Porteous. Anne did not need to look at the
+stranger’s card; she knew instinctively it was
+her lover, and there being no one else in the
+room, she went to meet him. The first fond
+greetings over, she saw there was something on
+his mind, and that not of a pleasant nature.
+She was not long kept in suspense.</p>
+
+<p>‘Do you know, Nan, I have been swindled—thoroughly
+swindled? After my uncle’s funeral,
+I waited to hear the will read, of course. The
+family lawyer was there; and he said there was
+no will. His client, he said, had been talking
+some time ago of making one, and had even given
+him some general directions about it; but he says
+it was never executed, and that the scheming old
+housekeeper and her brat are heirs to all. Isn’t
+it shameful?’</p>
+
+<p>‘Well, Alfred dear,’ Anne replied in a consolatory
+tone, ‘you know they were nearer to
+him than you could ever be, and you mustn’t
+grudge them taking what is justly their own.
+Besides, remember how kind your uncle was to
+you in his lifetime. Look at what a lot of money
+he spent on your education and in fitting you for
+a profession.—But did your aunt give you nothing—not
+even a remembrance of your uncle?’</p>
+
+<p>‘Well, yes,’ he grumblingly rejoined; ‘she gave
+me a cheque for a hundred guineas, and had the
+impudence to tell me she never wanted to see
+my face again.’</p>
+
+<p>‘And you took it?’</p>
+
+<p>‘Why, yes. Why shouldn’t I?’</p>
+
+<p>‘Well, Alfred, if I had been in your place, I
+would not have accepted of a gift given in such a
+spirit. However, it will be useful when you begin
+practice, which I suppose you will be doing at
+once now.’</p>
+
+<p>‘Start business as a doctor in London, with
+only a hundred pounds to fall back on! Why,
+Nan, you’re surely joking. But I forget: girls
+don’t understand these matters.’</p>
+
+<p>‘Then, what do you purpose doing?’ she
+asked anxiously.</p>
+
+<p>‘Oh, my mind is quite made up as to that,’
+he said, drawing himself up proudly. ‘I intend
+devoting myself to literature.’</p>
+
+<p>‘And throw away all your medical study and
+training for nothing,’ she exclaimed. ‘Surely,
+that would be folly, Alfred.’</p>
+
+<p>‘There’s no folly about it,’ he answered. ‘Lots
+of fellows, without half the education or, I may
+say, ability that I possess, make a thousand or
+two a year by writing science articles, stories, and
+what not for the monthlies. I’m told it’s about
+the best paying thing that’s going. And then,
+you see, it does not require any capital. You just
+jot down your thoughts on a quire of paper, forward
+it to an editor, and you get a cheque back
+by return of post for twenty or thirty guineas—or
+far more, if your name is well known—as mine
+will soon be,’ he added confidently.</p>
+
+<p>This piece of news was not very pleasant to
+poor Nan. To be a doctor’s wife in a year or two
+was an agreeable enough prospect, especially when
+she so fondly loved the man. But to enter on
+matrimony with no more assured means of living
+than the honorariums which fall to the lot of
+an ordinary literary hack, was a bleak lookout.
+How often had she heard Mr Hannay aver that
+not one in a hundred who tried literature as a
+profession succeeded in earning a decent living.
+True, Alfred must be very clever, from the number
+and value of his college prizes; but then, hadn’t
+her old friend often said that education had but
+little to do with literary success, and that he
+had rejected more manuscripts from college-bred
+would-be contributors than from any other class.
+She did not fear a life of haphazard poverty for
+herself; but her woman’s instinct told her that
+it would press hardly on Alfred. She was not
+blind to the imperfections of his nature; she was
+far too clear-headed for that. But she regarded
+him from two distinctly different points of view:
+from the one, her common-sense showed him in
+all his human imperfections and failings; from
+the other, or ideal one, he appeared as a being so
+far exalted above the common herd of men that to
+love and serve him all the days of her life would
+be her chiefest joy and happiness. As the stereoscope
+projects two different images into one more
+seemingly real than either taken singly, so did her
+woman’s love commingle these diverse impressions
+of her lover into a glorified and lovable whole.
+Who on this earth could be to her what he was to
+her? Not being of an exacting or jealous nature,
+she had never asked herself the question—Did he
+love her as she loved him? If she had done so, she
+would have smiled in scorn at the very suggestion
+of such a mean doubt; for did not she remember
+his warm, trembling words of love—his soft sighs
+and tender caresses—his declarations of hopeless
+despair, if she withheld her heart from him? It
+certainly was a pity this abandonment of his profession;
+but then, it might only be a temporary
+one. He perhaps might find that, clever as he
+was, the paths leading to literary success were<span class="pagenum" id="Page_652">{652}</span>
+steeper and less flowery than he imagined. If so,
+then, of course, he would start practice, and all
+would yet be well. The slight shadow on her
+countenance cleared off. She said: ‘Well, Alfred,
+you should know best—perhaps you are right.
+Come and I’ll take you to our private parlour.
+Papa is sitting out in the garden. I must bring
+him in and introduce him to you.—He must
+know all now,’ she added with a slight tremor.
+She had put off the evil day as long as she could;
+but further concealment was now impossible.</p>
+
+<p>It was with faltering accents she confessed her
+secret to the old gentleman, as she sat down beside
+him in the garden arbour. If she had informed
+him that Lochenbreck had suddenly run dry, he
+could not have been more astonished. Then he
+got angry, and made use of some very uncomplimentary
+expressions regarding Anne and her
+sex in general. But he was a man of sense and
+feeling at heart; and when he saw the hot tears
+coursing down her cheeks, he checked himself at
+once, caressed her, and told her not to make a
+fool of herself. He knew Anne’s character too
+well to think that he, or any one, could prevent
+her permanently from doing anything her heart
+was set on, and which her sound moral consciousness
+told her was right and justifiable. He, it is
+true, had cherished secret hopes that his old
+friend Hannay might have taken a fancy for the
+girl, and he would have parted with her to him
+freely; now he was asked to give her to a man
+that he had never yet seen. It was monstrous;
+but then girls always do act in a ridiculous and
+contrary manner in these matters of love.</p>
+
+<p>‘Well, Nan, I’ll see the lad—there can be no
+harm in that; and I’ll not thwart your happiness
+if I find him deserving of you.’</p>
+
+<p>Ay, there was the rub. Was he, or almost any
+one else in the world, deserving of his Nan?</p>
+
+<p>Seated in the cosy parlour, and the embarrassment
+of the unexpected introduction over, Nan
+prudently withdrew, leaving the two gentlemen
+to feel their way into each other’s acquaintanceship
+over a bottle of claret and a box of cigars.
+Alfred was a good talker, easy, self-possessed, and
+even genial in his style.</p>
+
+<p>He felt no diffidence in proposing for Anne;
+true, meantime he was almost impecunious, and
+had no established or certain means of living;
+but he was a gentleman, well educated and bred,
+and, as he inwardly thought, a very eligible son-in-law
+for any innkeeper in the land. Anne
+was now called in, and blushingly joined in the
+conversation. The suitor pressed for an immediate
+union. This was, however, decisively negatived
+by both father and daughter. Porteous
+had been favourably impressed by his proposed
+son-in-law; but when he learned that his future
+income was to be derivable solely from literary
+emoluments, it became him to act in the matter
+with great caution, for the sake of his daughter’s
+future. If this literary venture was to be gone
+into, its success must be thoroughly demonstrated
+in actual pounds, shillings, and pence, before the
+marriage could take place. Anne thought this
+a reasonable stipulation: her lover didn’t. His
+pride felt hurt at finding obstacles where he
+imagined he had an easy walk over. He had,
+however, to pocket his pride and submit to the
+inevitable. On these conditions the lovers became
+engaged, with the old gentleman’s approval. A
+great weight of concealment was now off Anne’s
+mind. Her spirits rose, and for a few brief days
+the happy pair abandoned themselves to the
+innocent delusions and delights of ‘Love’s young
+dream.’</p>
+
+<p>Anne was the first to awake to the realities
+of life. She was nothing if not practical, and
+she soon realised that all this sweet billing and
+cooing was but a waste of time. Her knight
+must go forth into the tournament of life, gain
+his trophies, and then come back to claim her
+as his guerdon.</p>
+
+<p>‘Now, Alfred,’ she said one day, ‘I think
+it is high time you should put your literary
+projects into execution. That, you can’t well do
+here. I think you should take a cheap lodging
+in Edinburgh, or some place where you would
+have the advantage of good reference libraries,
+and set to work at once.’</p>
+
+<p>‘True, Nan; I must think of making a start
+one of these days.—But you don’t wish me away,
+dearest, do you?’ he said in a tender way.</p>
+
+<p>‘Oh, you know well enough I don’t!’ she
+returned with the slightest trace of impatience in
+her tone. ‘But if we are to get married, it will
+not be by your idling your time away here.
+You’ll find a hundred pounds won’t keep you
+long in a large city; and think in what an
+awkward position you would be, if it got done
+before you found a regular and profitable market
+for your literary work.’</p>
+
+<p>He was forced to admit the soundness of the
+advice, which was emphatically indorsed by Mr
+Porteous. So, the following day he packed up
+his traps; and the evening found him established
+in a modest lodging in Nicolson Street, Edinburgh,
+which had formerly known him as a
+student.</p>
+
+<p>The lovers might have served as a model for
+all others so situated, in the regularity and length
+of their communications to each other. For fully
+a month, Alfred wrote in the brightest of spirits.
+He was engaged on a lengthy paper, ‘A Comparative
+Analysis of the Literature of Greece
+and Rome.’ This was intended for a famous
+London quarterly; he would act prudently, however,
+and would not commit himself until he
+had ascertained the very highest sum obtainable
+for it.</p>
+
+<p>This first venture was completed and posted.
+In a few days the manuscript was returned with
+a polite note from the editor. The paper, he
+admitted, was well written, although not containing
+any particularly new views on the subject;
+and at anyrate there was no demand for
+classic literature on the part of the reading
+public at present: therefore, he was under the
+necessity of declining it with thanks, &amp;c. He
+sent it to some other magazines; but the result
+in substance was the same. He was surprised
+and disappointed, of course; but buoyed up by
+his own self-esteem and Anne’s kind sympathetic
+letters, he determined to make a new venture on
+different lines. He had been very successful in
+taking prizes in the science classes at college.
+The science of optics was a strong point with
+him, so he set to to compose ‘A Dissertation on
+the Polarisation of Light.’ This he sent when
+completed to a celebrated science monthly. The
+manuscript was returned, and the note accompanying
+it was discouraging. The editor thought<span class="pagenum" id="Page_653">{653}</span>
+the article fairly well written, and the facts and
+theories were correctly given so far as it went,
+but it was rather behind the times. Repulsed
+in the higher branches of his chosen profession,
+he now condescended to write ordinary magazine
+sketches and stories; but still the long-looked-for
+success failed to come. He wrote scores of
+papers—tales, social sketches, &amp;c.; but not one
+of them found their way into print. In most
+cases they were returned with a printed form
+of letter, expressive of the editor’s regret at
+being unable to use the manuscript. In some
+cases, however, they were good enough to append
+a line or two of criticism. One said his style
+was a little stilted, and that he used too many
+long-syllabled words. Another said, in effect, that
+he lacked dramatic instinct in the grouping of his
+incidents and characters, and that the plot was
+bald and destitute of any probable <i>motif</i>. Many
+never returned his manuscripts at all, or paid
+the least attention to his oft repeated inquiries
+regarding them. Disheartened by these repeated
+failures, it was with delight he read in one of
+the daily papers an advertisement addressed ‘To
+Authors.’ The advertiser, who seemed to be of
+a philanthropic disposition, professed deep sympathy
+with the difficulties that beset the path
+of young aspirants to literary fame. Many a
+splendid intellect, the advertisement went on
+to say, had been doomed to languish in obscurity
+through the want of enterprise of selfish publishers.
+It was his (the advertiser’s) wish to
+assist struggling merit—in other words, to enable
+young authors to publish their works on exceptionally
+favourable terms. Letters inclosing a
+stamped envelope for reply, and addressed to
+‘Author,’ G. P. O., London, would receive instant
+attention.</p>
+
+<p>‘The very thing to meet my case,’ said Alfred
+to himself. ‘I’ll write a novel, and then these
+beggarly editors will see how the public will
+appreciate my writings.’ In high spirits he wrote
+a letter asking further particulars from the literary
+philanthropist; and in due course received a courteous
+reply, stating that if he forwarded the manuscript
+of the proposed work when finished, it would
+be examined carefully, and, if judged worthy,
+would be published on the ‘half-profit’ system—that
+is, the resulting profits to be equally divided
+between the author and the advertiser. It was
+necessary that a registration fee of ten guineas
+should be paid in the first instance; this, however,
+was only as a guarantee of bona fides, and it
+would be returned when the book was published.
+The requisite fee was at once forwarded; and
+Alfred set to work in great spirits to compose
+a short high-class novel; he purposed giving the
+story a literary <i>personnel</i>, to afford him an opportunity
+of holding up to his readers’ derisive scorn
+the ridiculous pretensions of ignorant London
+editors. He wrote to Anne, and depicted in
+glowing terms the brilliant prospects before him
+in the near future; and putting his whole soul
+in his work, and working twelve hours a day,
+he finished his story (which was somewhat after
+the style of the <i>Caxtons</i>) in less than two months.
+In sending it to London, he earnestly requested
+that it should be put in type and published with
+the least possible delay. The manuscript was
+duly acknowledged, and compliance with his request
+promised. It had been handed to the
+reader, who would at once set to work on it;
+and his fee was ten guineas, payable in advance.
+Poor Alfred’s store of sovereigns was now pretty
+well reduced, and it was with reluctance that
+he sent this second remittance. In a week his
+manuscript was returned with a polite note,
+saying that while the story showed germs of
+genius, it was not of sufficient general literary
+merit to warrant publication. Inquiries made
+through a London friend revealed the fact that
+he had been the victim of a used-up penny-a-liner,
+a man without means, influence, or respectability,
+who made a discreditable living by playing
+on the credulity and vanity of amateur
+authors. Dark despair would have taken hold
+of most people in his circumstances; his money
+was now reduced to a trifle; his health affected
+by his prolonged and severe efforts; but his
+self-esteem was in no way abated. He still
+believed literature to be his forte, and determined
+to give it <i>one</i> more chance. First of all, though,
+he required rest; and having an invitation from
+Nan, he took the train one day for Lochenbreck,
+where he arrived with a portmanteau full of
+rejected manuscripts, and ten pounds in his
+pocket.</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="BLEEDING_HEART_YARD">BLEEDING HEART YARD.</h2>
+</div>
+
+
+<p><span class="smcap">With</span> the demolition of Bleeding Heart Yard,
+many a pilgrim to London will have one goal
+the less. But it has been too graphically pictured
+in <i>Little Dorrit</i> ever to be forgotten. Of
+all Dickens’ many sketches of the London slums,
+this is one of the best, although it requires
+great imaginative powers now to recognise here
+any ‘relish of ancient greatness.’ The ‘mighty
+stacks of chimneys,’ now much the worse for wear,
+are still here, and still ‘give the Yard a character.’
+But the poor people who had ‘a family sentimental
+feeling’ about the Yard have nearly all
+flitted, like rats from a sinking ship. Indeed,
+piles of massive warehouses, which have sprung
+up on all sides, have already almost swamped
+their habitations; and any one seeing them in
+the gray gloaming of a wet winter afternoon, will
+have some difficulty in devising pleas for their
+preservation. The Yard is altogether dreary and
+unlovely, now that it is deserted, save for a couple
+of workshops, which, possibly, have replaced the
+factory of Daniel Doyce. A few carriers’ carts
+and costers’ barrows, too, seem to have been left
+here by accident. But for the most part the
+picture is one of dilapidated desolation. The
+three-storied brown-brick houses with their low-pitched
+red-tiled roofs, that run down the
+southern side, seem to have been the scene of
+an explosion or a conflagration; or, possibly, they
+may have been besieged by an army of urchins.
+Anyhow, not a pane of glass remains in the
+windows, which were probably cut through the
+wall at odd times, when wanted; and but for
+a tattered fringe which still decorates the frames,
+they might never have been glazed. Some of
+the cart-sheds and stables which form the ground-floor—to
+use an appellation that properly belongs<span class="pagenum" id="Page_654">{654}</span>
+to suburban villas—have been converted into
+shops, but bear no signs of ever having done a
+thriving trade; and it is easy to believe that
+the Yard, ‘though as willing a yard as any in
+Britain,’ was never ‘the better for any demand for
+labour.’</p>
+
+<p>But whatever its past, before very long it will
+have been improved away, and visitors will probably
+soon have some difficulty in finding out
+even its site. The witchery of Dickens is shown
+in nothing so much as the atmosphere of vivid
+actuality with which he surrounded nearly all
+his characters, and the localities in which they
+lived and moved. For years, crowds have paid
+visits of devotion to the shrines which he has
+surrounded with such a halo of romance; and
+he possessed in a remarkable degree the faculty
+of appropriating all the charm with which legend
+and tradition had surrounded spots, and endowing
+them with a new glamour, until he made himself
+the true <i>genius loci</i>. His knowledge of London
+was certainly ‘extensive and peculiar.’ It would
+be easy to name a dozen nooks within a stone’s
+throw of Holborn alone which he made his own.
+The narrow and crowded streets which, when
+Dickens wrote, were even more squalid than
+they are now, had for him an irresistible attraction.
+From his chambers in Furnival’s Inn as
+a centre, he was a veritable explorer in all directions;
+and he has painted for us with his pen
+a series of sketches of these courts and alleys the
+realism of which the pencil of even George
+Cruikshank could not rival.</p>
+
+<p>The nomenclature of London presents an endless
+succession of problems which never seem to
+get much nearer solution; and so far as many
+disputed sites are concerned, there is every likelihood
+that they will soon be removed from the
+field of controversy by being obliterated and
+altogether forgotten. It is notoriously a perpetual
+cause of surprise to foreigners, and especially our
+American cousins, that we are so heedless of
+being a nation with a history as to take no pains
+to preserve our historical landmarks. There are
+a thousand-and-one buried sites in the streets
+of London alone, which have played their parts
+in our national and municipal development, and
+there is none that cares to put up a stone to
+preserve their traditions from oblivion. But for
+Bleeding Heart Yard no very heroic etymology
+can be claimed. Dickens, it is to be feared, drew
+largely on his imagination, which he doubtless
+found served him in better stead than any number
+of old folios, for his amusing derivations. Except
+in <i>Little Dorrit</i>, there seems to be but scanty
+authority for the tradition that this was the scene
+of a murder. It is, however, beyond dispute
+that Ely Place and the adjacent streets were
+occupied by the luxurious town palace of the
+Bishops of Ely. Within the walls were included
+twenty acres of ground. This was, about the
+year 1577, sold to Christopher Hatton by the
+Bishop of Ely, who was, however, only made to
+carry out the contract by Elizabeth’s memorable
+threat that otherwise she would unfrock him.
+It was here that the famous chancellor died in
+1591. But his house and garden do not seem
+to have been demolished until the middle of the
+seventeenth century, for Evelyn, writing in 1659,
+tells us how he went to see ‘the foundations
+now laying for a long street and buildings in
+Hatton Garden, designed for a little town, lately
+an ample garden.’ Of a certain Lady Hatton,
+probably the wife of Sir Christopher’s great-nephew,
+it is gravely recorded that she had a
+compact with the Evil One, and that on the
+night when this came to an end, that personage,
+in the guise of a cavalier, attended certain festivities
+which were being held at Hatton House,
+and having lured her into the garden, tore
+her in pieces—her ‘bleeding heart’ being afterwards
+found. But if this weird legend had
+even so solid a foundation as a murder, it is
+probable that some record of it would have
+survived.</p>
+
+<p><i>Little Dorrit</i> is also the authority for the story
+of the young lady who was closely imprisoned
+in her chamber here by her cruel father for
+refusing to marry the suitor he had chosen for
+her. The legend related how the young lady
+used to be seen up at her window behind the
+bars, murmuring a love-lorn song, of which the
+burden was, ‘Bleeding heart, bleeding heart,
+bleeding away,’ until she died. It will be
+remembered that although the Yard was divided
+in opinion, this story carried the day by a great
+majority, notwithstanding that it was supposed
+to have originated with ‘a tambour-worker, a
+spinster, and romantic,’ living in the Yard.</p>
+
+<p>It is scarcely necessary to say that the point
+has received the attention of the seekers after
+miscellaneous knowledge, and a number of alternative
+derivations have been suggested. One
+learned antiquary, for instance, reminds us that
+‘bleeding heart’ is the name of the red wallflower
+in certain parts of England, but omits to point
+out the connection. The most plausible is the
+suggestion that the court may have taken its
+name from a hostel known as the <i>Bleeding
+Hart</i>, and it is well known that sign-painters
+frequently prove shaky in their orthography.
+Thus, he records that in Warwickshire, an inn
+known as the <i>White Hart</i> was some years since
+adorned with a signboard representing a human
+heart, or at least an ace of hearts. Then some
+people still cling to the belief that the sign of
+the Bleeding Heart dates from pre-Reformation
+times, and is emblematical of the five sorrowful
+mysteries of the rosary. We must leave it to
+others to reconcile these conflicting theories. But
+for its associations with the fortunes of <i>Little
+Dorrit</i>, the bare existence of the court would
+certainly have remained in oblivion, and its
+demolition would have excited no unusual
+regret.</p>
+
+<p>But there are those for whom the Yard has
+been associated with the history of a set of very
+real personages. Hither many folk have gone
+in search of ‘the domicile of Plornish, plasterer,’
+and have sought to identify ‘the parlour’ in which
+the Plornish family lived, and which was pointed
+out to callers by ‘the painted hand, on the forefinger
+of which the artist had depicted a ring,
+and a most elaborate nail of the genteelest
+form.’ Here, too, they have probably pictured
+for themselves the Patriarch ‘floating serenely
+through the Yard in the forenoon’ with the<span class="pagenum" id="Page_655">{655}</span>
+express purpose of getting up trustfulness in
+his shining bumps and silken locks, to be succeeded
+a few hours later by Pancks, that prince
+of rent-collectors, who, ‘perspiring, and puffing
+and darting about in eccentric directions, and
+becoming hotter and dingier every moment,
+lashed the tide of the Yard into the most
+agitated and turbid state.’ They may further
+have looked for the small grocery and general
+dealer’s shop ‘at the crack end of the Yard,’
+where Mrs Plornish was established by Mr Dorrit;
+and for ‘Happy Cottage,’ that most wonderful
+of interiors. And they may have wondered
+whereabouts was the spot where Pancks tackled
+the Patriarch, snipped off short the sacred locks,
+and cut down the broad-brimmed hat to a
+stewpan, thereby converting the venerable Casby,
+‘that first-rate humbug of a thousand guns,’ into
+‘a bare-polled, goggle-eyed phantom.’</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="FLEET_STREET_MARRIAGES">FLEET STREET MARRIAGES.</h2>
+</div>
+
+
+<p><span class="smcap">It</span> is said that the Fleet Street marriages of
+London originated with the incumbents of Trinity,
+Minories, and St James’s, Duke Place. The incumbents
+claimed to be exempt from the jurisdiction
+of the Bishop of London, and performed the marriages
+without banns or license. It is not exactly
+known in what year these gentlemen started their
+lucrative profession; but one named Elliot, who
+was rector of St James’s, was suspended by
+the Bishop of London in 1616 for performing
+these ceremonies. The trade was then taken up
+by clerical prisoners living within the Rules of
+the Fleet; and Mr Burn tells us that, as a
+rule, these were just the men—having neither
+money, character, nor liberty to lose—to adopt
+the profession; and he further says that they
+were in the main ‘lusty jolly fellows, but
+thorough rogues and vagabonds, guilty of various
+offences.’ That they were not ashamed of the
+business is evident from the fact that they advertised
+in the <i>Daily Advertiser</i> of that year to the
+following effect: ‘G. R.—At the true chapel, at
+the old <i>Red Hand and Mitre</i>, three doors up
+Fleet Lane, and next door to the <i>White Swan</i>,
+marriages are performed by authority by the
+Rev. Mr Symson, educated at the university of
+Cambridge, and late chaplain to the Earl of
+Rothes.—<i>N.B.</i> Without imposition.’</p>
+
+<p>‘J. Lilley, at the <i>Hand and Pen</i>, next door to
+the China Shop, Fleet Bridge, London, will be
+performed the solemnisation of marriages by a
+gentleman regularly bred at one of our universities,
+and lawfully ordained according to the
+institutions of the Church of England, and is
+ready to wait on any person in town or
+country.’</p>
+
+<p>There must have been great competition in the
+business, for we are told that there might be seen
+in corners of windows tickets stating ‘Weddings
+performed cheap here,’ ‘The Old and True
+Register,’ &amp;c. But the great trade was at the
+‘marriage houses’ whose landlords were also
+publicans, the <i>Bishop Blaire</i>, the <i>Horseshoe and
+Magpie</i>, the <i>Fighting Cocks</i>, the <i>Sawyers</i>, the <i>Hand
+and Pen</i>, the <i>Bull and Garter</i>, and the <i>King’s
+Head</i>, the last two being kept by warders of the
+Fleet prison.</p>
+
+<p>The parson and landlord—the latter usually
+acting as clerk—divided the fees between them,
+after paying a shilling to the tout who brought
+in the customers.</p>
+
+<p>The <i>Grub Street Journal</i> of January 1735 has
+the following: ‘There are a set of drunken,
+swearing parsons, with their myrmidons, who
+wear black coats, and pretend to be clerks and
+registers of the Fleet, and who ply about Ludgate
+Hill, pulling and forcing people to some peddling
+alehouse or brandy-shop to be married; even
+on a Sunday, stopping them as they are going
+to church and almost tearing their clothes off
+their backs.’</p>
+
+<p>This is confirmed by Pennant, who says: ‘In
+walking along the streets in my youth, on the
+side next the prison, I have often been tempted
+by the question, “Sir, will you be pleased to
+walk in and be married?” The parson was seen
+walking before his shop, a squalid, profligate
+figure, clad in a tattered plaid nightgown, with
+a fiery face, and ready to couple you for a dram
+of gin or a roll of tobacco.’</p>
+
+<p>Ladies who were possessed, or supposed to
+possess means, were often kidnapped and forced
+to marry ruffians whom they had never seen.
+For instance, we read that a young lady of birth
+and fortune was forced from her friends, ‘and
+by the assistance of a wry-necked swearing parson,
+married to an atheistical wretch, whose life was
+a continual practice of all manner of vice.’</p>
+
+<p>Again, we learn that a young lady appointed
+to meet a gentlewoman at the Old Playhouse,
+Drury Lane; but something prevented the gentlewoman
+coming, and the young lady being alone
+when the play was over, told a boy to fetch a
+coach for the city. ‘One like a gentleman helps
+her into it and jumps in after her. “Madam,”
+says he, “this coach was called for me; and since
+the weather is bad and there is no other, I beg
+leave to bear you company. I am going into the
+city, and will set you down wherever you
+please.”’</p>
+
+<p>The girl begged to be excused; but the man
+told the coachman to drive on. The result was
+that she was driven to a house, where she was
+induced to go in on the pretext of seeing the
+man’s sister, who would accompany her the rest
+of the journey. The sister came, but immediately
+vanished, and in her place appeared a
+‘tawny fellow in a black coat and black wig,’
+who said: ‘Madam, you are come in good time;
+the doctor was just agoing!’</p>
+
+<p>‘The doctor!’ exclaimed the girl; ‘what has the
+doctor to do with me?’</p>
+
+<p>‘To marry you to that gentleman. The doctor
+has waited for you these three hours, and will
+be paid by you or that gentleman before you
+go!’</p>
+
+<p>‘That gentleman,’ replied the girl, recovering
+herself, ‘is worthy a better fortune than mine,’
+and begged to be allowed to go; but the men
+were obdurate; and when she found she could
+not escape without money or pledge, told them
+that she liked the gentleman so much, that
+she would meet him the next night and be
+married; but they did not allow her to go
+before she had given them some pledge, and
+she therefore gave them a ring, which, to quote
+her words, ‘was my mother’s gift on her death-bed,
+enjoining that, if ever I married, it should
+be my wedding ring;’ and by this means she
+escaped.</p>
+
+<p><span class="pagenum" id="Page_656">{656}</span></p>
+
+<p>The indecency of these practices, and the
+facility they afforded for accomplishing forced
+and fraudulent marriages, were not the only
+evils, for we are told that marriages, when
+entered in the register, could be antedated without
+limit, on payment of a fee, or not entered
+at all; and women frequently hired temporary
+husbands at the Fleet, in order that they might
+be able to plead marriage to an action for debt.
+These hired husbands were provided by the parsons
+at five shillings each; and we are told that
+one man was married four times under different
+names, and received five shillings on each occasion
+‘for his trouble.’</p>
+
+<p>That the parsons did not always get the best
+of it may be supposed from the following extract
+from the register of the Fleet Marriages: ‘1740.
+Geo. Grant and Ann Gordon, bachelor and spinster:
+stole my clothes-brush.’—‘Married at a
+barber’s shop next Wilson’s—namely, one Kerrils,
+for half a guinea; after which it was extorted
+out of my pocket, and for fear of my life,
+delivered.’</p>
+
+<p>We are told that all sorts and conditions of
+men flocked to the Fleet to be married in haste,
+from the barber to the officer in the Guards—from
+the pauper to the peer. Timbs, in his
+book on <i>London</i>, states that among the aristocratic
+patrons of these unlicensed clergy were
+Lord Abergavenny; the Honourable John Bourke,
+afterwards Viscount Mayo; Sir Marmaduke
+Gresham; Lord Banff; Lord Montague, afterwards
+Duke of Manchester; Viscount Sligo; the
+Marquis of Annandale; Henry Fox, afterwards
+Lord Holland; and others. Walpole writes to
+Sir Horace Mann about Fox’s marriage as
+follows: ‘The town has been in a great bustle
+about a private match, but which, by the
+ingenuity of the ministry, has been made
+politics. Mr Fox fell in love with Lady
+Caroline Lennox (eldest daughter of the Duke of
+Richmond), asked her, was refused, and stole her.
+His father was a footman; her great-grandfather,
+a king. All the blood-royal have been up in
+arms.’</p>
+
+<p>The Bishop of London attempted to put a
+stop to these marriages in 1702, but with very
+little effect; and it was not until 1754 that an
+Act of Parliament was passed to prevent them.
+It is stated that the day before the Act was to
+come into force (March 24), there were no
+fewer than two hundred and seventeen marriages
+recorded in one register book; and these were
+the last of the Fleet weddings.</p>
+
+<p>A collection of the registers of Fleet Marriages
+was made in 1821, and was purchased by the
+government; they weighed over a ton.</p>
+
+<p>After the Marriage Bill of 1754, the Savoy
+Chapel came into vogue. The following advertisement
+appeared in the <i>Public Advertiser</i> of
+January 2, 1754: ‘By authority—Marriages performed
+with the utmost privacy, decency, and
+regularity at the ancient royal chapel of St John
+the Baptist, in the Savoy, where regular and
+authentic registers have been kept from the time
+of the Reformation (being two hundred years
+and upwards) to this day. The expenses not
+more than one guinea—the five-shilling stamp
+included. There are five private ways by land to
+this chapel, and two by water.’</p>
+
+<p>The proprietor of this chapel was the Rev.
+John Wilkinson, who fancied—as the Savoy was
+extra-parochial—that he was privileged to issue
+licenses upon his own authority, and so took no
+notice of the Act. During the following year,
+1755, he married no fewer than eleven hundred
+and ninety couples. The authorities at last took
+the matter up, and Wilkinson went into hiding;
+but he got a curate named Grierson to perform the
+ceremonies, he still giving the licenses, by which
+he thought his assistant would be harmless; but
+this was not so. Two members of the Drury
+Lane company were united by Grierson; and
+Garrick hearing of this, obtained the certificate,
+and had Grierson arrested. He was tried, convicted,
+and sentenced to fourteen years’ transportation;
+by which sentence, we are told, fourteen
+hundred marriages were declared void. We
+are not told what became of Wilkinson, whose
+trade was thus put a stop to.</p>
+
+
+<hr class="chap x-ebookmaker-drop">
+
+<div class="chapter">
+<h2 class="nobreak" id="TO_A_LADY">TO A LADY.</h2>
+</div>
+
+
+<div class="poetry-container">
+<div class="poetry">
+  <div class="stanza">
+    <div class="verse indent0"><span class="smcap">Again</span> I welcome the familiar pen;</div>
+    <div class="verse indent2">Again I sit me down to think and write;</div>
+    <div class="verse indent0">Fairly and free should flow my fancies when</div>
+    <div class="verse indent2">So fair a subject calls me to indite.</div>
+    <div class="verse indent0">And thou, O Muse, whose gracious fingers oft,</div>
+    <div class="verse indent2">And ne’er, I trust, in vain, have beckoned me,</div>
+    <div class="verse indent0">Grant that thy spirit, breathing numbers soft,</div>
+    <div class="verse indent2">May now descend to aid thy humblest votary.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">So, when the lark, in fullest tide of song,</div>
+    <div class="verse indent2">Makes sudden pause amidst his music clear,</div>
+    <div class="verse indent0">As seeking which, of all the thoughts that throng,</div>
+    <div class="verse indent2">First to embody for the listening ear,</div>
+    <div class="verse indent0">So do I hesitate and pause, in doubt</div>
+    <div class="verse indent2">With such diversity where to begin,</div>
+    <div class="verse indent0">For outward eyes would praise those charms without,</div>
+    <div class="verse indent2">Whilst Love would greet the soul enshrined those charms within.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Ah, gracious lady, words alone are vain</div>
+    <div class="verse indent2">Thy finer, subtler traits to fitly show;</div>
+    <div class="verse indent0">Rather Apollo’s art, in sweetest strain,</div>
+    <div class="verse indent2">With long-drawn symphonies, as soft as low,</div>
+    <div class="verse indent0">And cunningly devised by master-hand,</div>
+    <div class="verse indent2">Thy worth and beauty better would express</div>
+    <div class="verse indent0">Than my rude phrases—serving but to stand</div>
+    <div class="verse indent2">As tokens of thy power and of my faithfulness.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Yet tokens true are they; as tender shoots,</div>
+    <div class="verse indent2">Just peeping through the earth, are sureties good</div>
+    <div class="verse indent0">That deep below are hidden strongest roots,</div>
+    <div class="verse indent2">Which give this evidence of lustihood,</div>
+    <div class="verse indent0">So doth the love, long ’prisoned in my breast,</div>
+    <div class="verse indent2">Forced by its growth, at length expression find;</div>
+    <div class="verse indent0">I place my life, my all, at thy behest;</div>
+    <div class="verse indent2">I could not love thee more, nor oaths could stronger bind.</div>
+  </div>
+  <div class="stanza">
+    <div class="verse indent0">Yet what are words? Mere breaths which pass away;</div>
+    <div class="verse indent2">And words are at the service of us all.</div>
+    <div class="verse indent0">Vows, true or false, ring all the same to-day;</div>
+    <div class="verse indent2">We by our after-actions stand or fall.</div>
+    <div class="verse indent0">Give me to do some deed, some work, to show</div>
+    <div class="verse indent2">And prove the love I bear thee; test my faith.</div>
+    <div class="verse indent0">I speak no more; in silence, love shall grow,</div>
+    <div class="verse indent2">And silent witness give that love shall last till death.</div>
+  </div>
+  <div class="attrib">E. G. W.</div>
+</div>
+</div>
+
+<hr class="full">
+
+<p class="center">Printed and Published by <span class="smcap">W. &amp; R. Chambers</span>, 47 Paternoster
+Row, <span class="smcap">London</span>, and 339 High Street, <span class="smcap">Edinburgh</span>.</p>
+
+<hr class="full">
+
+<p class="center"><i>All Rights Reserved.</i>
+</p>
+<div style="text-align:center"></div><section class="pg-boilerplate pgheader" id="pg-footer" lang="en">
+<div id="pg-end-separator">
+<span>*** END OF THE PROJECT GUTENBERG EBOOK CHAMBERS'S JOURNAL OF POPULAR LITERATURE, SCIENCE, AND ART, FIFTH SERIES, NO. 145, VOL. III, OCTOBER 9, 1886 ***</span>
+</div>
+
+    
+<div>
+Updated editions will replace the previous one—the old editions will
+be renamed.
+</div><div>
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+</div>
+
+<div id="project-gutenberg-license">START: FULL LICENSE</div>
+
+<h2 id="pg-footer-heading">THE FULL PROJECT GUTENBERG LICENSE</h2>
+
+<div class="agate">PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+</div><div>
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+</div><div class="secthead">
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+</div><div>
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+</div><div>
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+</div><div>
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+</div><div>
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+</div><div>
+1.E. Unless you have removed all references to Project Gutenberg:
+</div><div>
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+</div><blockquote><div>
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  </div></blockquote><div>
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+</div><div>
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+</div><div>
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+</div><div>
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+</div><div>
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+</div><div>
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+</div><div>
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+</div><ul>
+    <li>• You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    </li>
+    <li>• You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    </li>
+    <li>• You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    </li>
+    <li>• You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    </li>
+</ul><div>
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+</div><div>
+1.F.
+</div><div>
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+</div><div>
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+</div><div>
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+</div><div>
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+</div><div>
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+</div><div>
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+</div><div class="secthead">
+Section 2. Information about the Mission of Project Gutenberg™
+</div><div>
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+</div><div>
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+</div><div class="secthead">
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+</div><div>
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+</div><div>
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+</div><div class="secthead">
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+</div><div>
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+</div><div>
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit <a href="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</a>.
+</div><div>
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+</div><div>
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+</div><div>
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+</div><div class="secthead">
+Section 5. General Information About Project Gutenberg™ electronic works
+</div><div>
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+</div><div>
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+</div><div>
+Most people start at our website which has the main PG search
+facility: <a href="https://www.gutenberg.org">www.gutenberg.org</a>.
+</div><div>
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+</div>
+
+</section></body></html>
