@@ -18,7 +18,7 @@ id=browser.find_element(By.ID,"account_name")
 password=browser.find_element(By.ID,value="password")
 btn=browser.find_element(By.ID,value="action")
 id.send_keys("357128")
-password.send_keys("ran1856.")
+password.send_keys("密码")
 btn.click()
 
 #browser.window_handles[0]Webdriver的属性window_handles用来记录当前页面的句柄，当前页面的句柄为列表的第一项，所以为0

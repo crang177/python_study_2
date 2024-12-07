@@ -95,11 +95,11 @@ import schedule,time
 import yagmail #第三方库
 
 def sendEmail_2():
-    user="cran177@163.com" #发件人
+    user="" #发件人
     pass_code="AJrsdjwsRg49jGen"#授权码，到邮箱设置里找
     host="smtp.163.com"#服务器地址
     
-    email_to=["2024418911@qq.com",]#收件人
+    email_to=["",]#收件人
     title="hello"#邮件的标题
     email_body="my name is rg"#文件主体的内容
     #附加列表
